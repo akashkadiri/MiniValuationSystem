@@ -1,0 +1,1001 @@
+CurrencyPair,Strike,ExpiryDate,TradeId,Counterparty,Quantity,TradeType
+LBP/SCR,82.14,2023-02-22,101,"Fadel, Stanton and Deckow",891551.91,FXForward
+LTL/PYG,40.41,2025-09-29,102,"Satterfield, Witting and Prohaska",314909.60,FXForward
+BAM/ANG,85.91,2029-09-08,103,Connelly Group,547792.52,FXForward
+CHF/CAD,26.51,2022-12-24,104,Kemmer - Fisher,32328.99,FXForward
+TRY/SYP,5.32,2030-06-07,105,"Olson, Corkery and Wisozk",410064.63,FXForward
+CDF/ALL,45.26,2021-08-30,106,Turner Group,388546.20,FXForward
+CLP/TZS,32.42,2021-10-31,107,"Gislason, Hessel and Rolfson",224525.68,FXForward
+PGK/SCR,53.33,2027-01-05,108,"Goodwin, McCullough and Corwin",516929.38,FXForward
+IRR/TRY,63.46,2031-02-23,109,"Lang, Kerluke and Barton",209459.84,FXForward
+KGS/TMT,99.62,2024-09-21,110,Auer and Sons,351684.00,FXForward
+HNL/PKR,35.70,2029-08-29,111,"Turner, Johns and Leannon",497389.03,FXForward
+FKP/BZD,85.51,2027-02-06,112,Kovacek - Rowe,557777.79,FXForward
+AZN/LSL,94.68,2027-03-14,113,Welch LLC,776945.98,FXForward
+OMR/VEF,79.54,2022-11-11,114,Prohaska and Sons,602897.15,FXForward
+AWG/HNL,18.45,2029-03-16,115,Romaguera Group,117941.31,FXForward
+KMF/UZS,88.13,2027-04-02,116,"Hintz, Tremblay and Harvey",873576.88,FXForward
+UAH/XDR,46.87,2030-08-06,117,"Fadel, Spinka and Hyatt",565303.19,FXForward
+DOP/PGK,67.57,2027-05-09,118,Mueller and Sons,754216.04,FXForward
+MMK/VUV,75.97,2029-05-27,119,Larson - Harvey,737314.37,FXForward
+SEK/STN,85.11,2025-07-23,120,Parker Inc,612458.20,FXForward
+SYP/NZD,92.90,2030-01-28,121,Spencer LLC,952805.60,FXForward
+KYD/XCD,15.01,2023-12-14,122,Cartwright - Adams,562397.65,FXForward
+MUR/VEF,24.38,2024-11-07,123,Gleichner - Baumbach,334845.64,FXForward
+USD/VEF,21.32,2026-12-14,124,McDermott and Sons,144508.98,FXForward
+SGD/UYU,77.36,2027-03-03,125,"Veum, Rodriguez and Homenick",996214.68,FXForward
+CVE/ILS,17.64,2026-08-11,126,Bogisich - Jakubowski,860562.39,FXForward
+XAF/CDF,59.70,2024-02-02,127,"Wilkinson, King and Quitzon",516408.24,FXForward
+TND/XBC,44.22,2029-03-19,128,"Daniel, Conroy and Schaden",37665.40,FXForward
+XOF/KMF,27.01,2028-10-12,129,Dare - Runte,268975.15,FXForward
+XAG/DZD,28.92,2027-06-09,130,Russel Group,494557.07,FXForward
+EUR/AOA,59.61,2029-02-26,131,Turcotte Group,856296.71,FXForward
+KHR/GMD,49.66,2025-06-26,132,"Stehr, Ortiz and Murphy",802301.69,FXForward
+MUR/AMD,2.39,2025-09-09,133,Schumm - Zulauf,763487.40,FXForward
+NAD/XPF,85.45,2023-01-05,134,"Schaefer, Homenick and Rosenbaum",784154.42,FXForward
+MOP/MDL,58.08,2031-02-13,135,Toy Inc,585916.45,FXForward
+XPD/RSD,47.44,2024-09-18,136,Boehm - Romaguera,640319.21,FXForward
+UZS/LBP,88.46,2028-09-18,137,Kris and Sons,289730.41,FXForward
+ANG/XFU,86.83,2028-07-09,138,Kuhic - Franecki,215472.26,FXForward
+UGX/VUV,30.98,2025-06-28,139,"Murray, Jacobson and Jakubowski",352878.59,FXForward
+TZS/BRL,90.63,2025-06-23,140,"Zulauf, Weber and Glover",798574.86,FXForward
+MUR/AED,40.24,2022-12-26,141,"Labadie, Leuschke and Mann",321211.75,FXForward
+PAB/DKK,3.25,2029-12-13,142,Gibson and Sons,955288.17,FXForward
+ERN/NZD,10.14,2030-01-04,143,Glover Inc,988652.18,FXForward
+PAB/QAR,12.85,2024-05-23,144,Kovacek Group,472039.49,FXForward
+DJF/GTQ,85.49,2025-04-16,145,Fahey - Hettinger,186008.86,FXForward
+UAH/IRR,72.05,2023-09-03,146,"O'Reilly, Schuppe and Beahan",53482.22,FXForward
+LAK/XBA,43.47,2028-03-29,147,"Lang, Stanton and Smith",428871.27,FXForward
+MUR/ISK,13.30,2021-11-12,148,Blick Inc,930394.07,FXForward
+PYG/AED,41.42,2028-01-03,149,Huel - Stark,846556.58,FXForward
+TWD/ERN,8.95,2023-08-04,150,McClure Group,53276.31,FXForward
+LKR/CRC,76.10,2025-12-25,151,Pfannerstill Inc,280760.61,FXForward
+AMD/BRL,43.13,2030-06-15,152,"Larson, Beer and Satterfield",342772.04,FXForward
+GEL/MAD,43.36,2022-12-18,153,"Kshlerin, Yundt and Strosin",390473.00,FXForward
+XAF/AFN,98.68,2029-07-28,154,Torp - Brakus,381577.22,FXForward
+CNY/PGK,38.31,2022-04-03,155,"Stracke, Feeney and Stehr",583954.97,FXForward
+AMD/LBP,36.03,2022-09-06,156,White LLC,327958.53,FXForward
+KES/PLN,84.71,2024-05-13,157,"Ruecker, Bradtke and Hessel",844636.91,FXForward
+AUD/TND,51.54,2024-07-19,158,"Terry, Hickle and Hills",639987.91,FXForward
+GYD/ILS,48.61,2024-04-02,159,Dooley Inc,413232.42,FXForward
+IQD/KHR,74.31,2023-09-27,160,Lynch Group,838239.02,FXForward
+UZS/KZT,58.11,2021-05-09,161,Friesen Group,467529.06,FXForward
+SHP/LYD,90.03,2029-09-27,162,Hirthe Group,18346.61,FXForward
+KES/KYD,74.33,2030-01-14,163,"Powlowski, Emard and Crooks",75143.74,FXForward
+LBP/KGS,45.62,2027-07-09,164,Gleason - Botsford,49159.47,FXForward
+AWG/LKR,79.23,2027-06-25,165,McDermott Group,905723.03,FXForward
+LBP/MXN,64.29,2027-11-12,166,Collins Group,602065.53,FXForward
+CNY/PLN,80.08,2022-09-24,167,"Balistreri, Parisian and DuBuque",581882.80,FXForward
+XPT/TTD,95.87,2024-04-17,168,Gutkowski - Dickinson,486716.96,FXForward
+XOF/SYP,21.95,2025-07-11,169,Miller - Volkman,102004.45,FXForward
+CAD/KES,98.00,2027-07-11,170,Auer - Goldner,509250.88,FXForward
+ETB/ARS,95.76,2030-08-26,171,Botsford - Kihn,738359.06,FXForward
+BYR/BND,32.59,2031-02-05,172,"Ruecker, Kling and D'Amore",599606.58,FXForward
+MVR/ALL,26.12,2025-11-23,173,Bernier Group,728647.56,FXForward
+AED/CUP,32.12,2027-01-02,174,"Batz, Corwin and Hodkiewicz",291648.72,FXForward
+AWG/ILS,64.18,2031-02-04,175,Stoltenberg and Sons,220395.60,FXForward
+TZS/KGS,91.59,2030-10-04,176,Daniel and Sons,46832.45,FXForward
+XAU/XAG,7.85,2023-02-10,177,Smitham - Harvey,10051.11,FXForward
+MVR/SDG,76.14,2023-12-19,178,Koss Inc,806537.66,FXForward
+SYP/EUR,71.49,2024-08-01,179,"Barrows, Boehm and Fisher",958652.93,FXForward
+XTS/PEN,23.52,2025-08-13,180,"Kirlin, Spencer and Wiegand",412816.17,FXForward
+CNY/TMT,18.62,2030-09-18,181,"Cruickshank, Stehr and Hahn",676692.75,FXForward
+JOD/KGS,4.39,2023-04-03,182,Hermann - Smith,421601.25,FXForward
+NGN/PAB,68.17,2022-09-30,183,"Harber, Padberg and Yost",769956.86,FXForward
+MDL/IQD,57.13,2022-07-25,184,Ferry - Fay,866094.27,FXForward
+XCD/KZT,77.24,2029-06-24,185,"Metz, Jerde and Lindgren",352576.03,FXForward
+KMF/XBC,21.76,2022-12-19,186,"Hessel, Kunde and Harber",52038.02,FXForward
+MZN/EEK,62.96,2026-08-16,187,Macejkovic and Sons,992235.79,FXForward
+LSL/FJD,29.52,2025-11-04,188,"Little, Will and Blanda",72601.80,FXForward
+DOP/DKK,95.19,2030-05-25,189,"Murray, O'Keefe and Kiehn",411732.85,FXForward
+TTD/HKD,64.85,2024-09-17,190,Dickens Group,381557.17,FXForward
+AMD/CRC,91.08,2029-07-03,191,Anderson LLC,951652.75,FXForward
+NPR/IRR,22.90,2021-08-17,192,Veum Group,742623.16,FXForward
+SHP/XAG,34.09,2023-08-07,193,Moore - Gorczany,562752.33,FXForward
+SEK/IDR,73.54,2027-08-19,194,Ortiz Group,440895.00,FXForward
+OMR/MAD,79.65,2025-10-24,195,Renner - Turcotte,252187.95,FXForward
+DJF/GTQ,88.03,2030-11-24,196,"Mraz, Fahey and Hackett",398403.43,FXForward
+OMR/CUC,67.10,2025-10-28,197,"Sawayn, Donnelly and Beahan",85886.37,FXForward
+USD/COP,18.34,2024-06-16,198,"Heller, DuBuque and Kovacek",104780.11,FXForward
+TWD/UAH,81.86,2022-05-07,199,"Kreiger, Wolff and Johnston",94981.22,FXForward
+INR/BIF,48.11,2030-08-13,200,Barton - Sipes,830973.34,FXForward
+BRL/SDG,58.11,2022-11-29,201,Lind - McGlynn,341165.82,FXForward
+MGA/JMD,13.04,2023-06-14,202,King - Franecki,274265.48,FXForward
+SAR/ISK,22.21,2023-12-22,203,"Kertzmann, Jacobson and Wunsch",364881.17,FXForward
+BGN/NAD,11.26,2031-03-10,204,Lemke - Nienow,621019.42,FXForward
+ZAR/SVC,76.73,2025-04-05,205,Glover LLC,597542.42,FXForward
+MRO/NIO,27.05,2030-05-04,206,Labadie and Sons,579487.98,FXForward
+LYD/MXN,87.71,2022-11-05,207,Wehner - Walsh,690237.55,FXForward
+XPD/MOP,51.10,2025-11-22,208,Bins - Mitchell,177605.80,FXForward
+LVL/OMR,91.90,2028-02-15,209,Graham and Sons,119493.40,FXForward
+ALL/PKR,72.28,2030-07-12,210,McGlynn - Breitenberg,185553.74,FXForward
+BAM/KHR,49.05,2027-05-14,211,Reynolds Inc,143161.77,FXForward
+CDF/NIO,45.16,2028-06-26,212,Kuhic - Feest,900710.22,FXForward
+CDF/KGS,99.90,2021-06-26,213,"Vandervort, King and Gerlach",245661.32,FXForward
+SAR/BZD,72.11,2024-10-23,214,Becker Group,460237.86,FXForward
+JOD/SDG,79.48,2028-08-30,215,"Von, Ebert and Leuschke",367944.06,FXForward
+AUD/BZD,38.81,2023-03-26,216,"Adams, Hoppe and Auer",531602.54,FXForward
+BOB/HKD,0.56,2022-07-20,217,Dietrich and Sons,677136.05,FXForward
+HUF/MGA,54.96,2025-12-29,218,"Hills, McClure and Corkery",701232.53,FXForward
+SOS/LAK,50.92,2025-07-19,219,"Fisher, Deckow and Muller",513796.59,FXForward
+AFN/THB,7.21,2026-04-16,220,Morissette - Zulauf,710300.14,FXForward
+TRY/XAU,52.98,2023-09-25,221,Leffler Group,4541.07,FXForward
+ANG/QAR,87.10,2025-12-27,222,Heaney - Emard,590012.20,FXForward
+MXN/NIO,45.99,2031-04-19,223,Hilpert Group,205168.23,FXForward
+BWP/BOB,35.97,2029-05-03,224,Pfannerstill Group,390389.20,FXForward
+QAR/LBP,86.93,2024-10-21,225,Douglas and Sons,987670.65,FXForward
+ETB/XCD,39.92,2028-09-30,226,Homenick - Weimann,393756.28,FXForward
+VUV/XFU,44.36,2021-12-14,227,"Lemke, O'Connell and Nienow",880974.55,FXForward
+BSD/LAK,98.28,2025-06-02,228,"Smith, Carter and Wolf",139529.15,FXForward
+TTD/NOK,50.26,2026-09-29,229,Senger - Herman,883376.14,FXForward
+STN/ETB,28.69,2022-12-31,230,Dibbert - O'Hara,66320.60,FXForward
+XCD/DJF,27.19,2029-12-18,231,Medhurst - Kohler,723310.34,FXForward
+MGA/FJD,47.78,2025-05-30,232,"Ryan, Murphy and Rolfson",374644.55,FXForward
+SHP/AWG,13.38,2024-08-31,233,"Jacobson, Mayer and Huel",860897.01,FXForward
+BZD/NGN,83.17,2029-05-12,234,Roberts Group,998839.27,FXForward
+LVL/GTQ,55.10,2026-02-26,235,Leffler - Zulauf,259585.61,FXForward
+ARS/XCD,17.35,2027-11-08,236,"Bartoletti, Wisozk and Rolfson",169878.88,FXForward
+VUV/KGS,58.95,2027-02-28,237,"Sporer, Rath and Sanford",785219.04,FXForward
+ARS/XCD,56.86,2021-07-04,238,"Legros, Blanda and Walker",637754.64,FXForward
+ANG/XBC,90.01,2028-03-24,239,"Kris, Corwin and Heidenreich",95260.40,FXForward
+TZS/PAB,34.35,2023-07-12,240,Homenick Inc,277145.60,FXForward
+NGN/RON,90.32,2025-06-18,241,"Cartwright, Barrows and Quigley",655711.69,FXForward
+XDR/UGX,60.12,2021-06-24,242,Jenkins Inc,394300.40,FXForward
+STN/RWF,86.92,2030-02-24,243,Powlowski LLC,566587.93,FXForward
+OMR/SDG,45.53,2027-02-07,244,Harris Inc,419334.41,FXForward
+GYD/BHD,89.34,2026-02-11,245,Gulgowski - Schmeler,539423.14,FXForward
+VND/GMD,15.25,2026-10-15,246,Parisian - Abbott,496299.92,FXForward
+USD/PYG,99.31,2025-08-29,247,Gerlach - Nienow,924298.46,FXForward
+LAK/LTL,80.12,2024-06-18,248,Senger and Sons,254202.78,FXForward
+BAM/SCR,10.13,2029-04-23,249,"Koch, Wuckert and Murray",35274.37,FXForward
+IQD/AMD,87.76,2023-02-03,250,Cartwright Inc,683259.96,FXForward
+MNT/SOS,75.89,2024-05-05,251,Stehr - Hermiston,70788.71,FXForward
+PHP/AMD,96.05,2030-01-28,252,Hoeger - Kuhn,603619.67,FXForward
+MGA/MAD,55.40,2026-08-26,253,"Lindgren, Jaskolski and Hammes",521022.54,FXForward
+STN/TMT,80.11,2027-04-27,254,Schumm LLC,922136.01,FXForward
+ERN/KMF,71.61,2023-07-04,255,Schmitt LLC,445636.88,FXForward
+LYD/CLP,0.33,2022-12-01,256,Pacocha LLC,216298.50,FXForward
+MVR/PYG,14.55,2024-10-19,257,Zieme Group,615613.12,FXForward
+IRR/NZD,59.25,2028-03-07,258,"Leuschke, Jaskolski and Walker",224946.70,FXForward
+KPW/KRW,11.53,2028-03-15,259,Maggio Inc,330418.35,FXForward
+HTG/ARS,96.15,2029-06-09,260,Dickinson Group,821297.30,FXForward
+CUP/AUD,41.69,2027-11-17,261,Rempel - Roob,954236.42,FXForward
+TND/ZWL,94.51,2021-12-08,262,Nolan LLC,17276.09,FXForward
+TMT/UGX,76.12,2026-11-13,263,Legros and Sons,597559.31,FXForward
+MMK/LAK,49.84,2025-10-06,264,"Walsh, Koelpin and Kohler",305073.20,FXForward
+PHP/MAD,95.82,2022-10-10,265,Stehr LLC,854321.45,FXForward
+BMD/XBA,10.35,2023-10-15,266,Beatty - Schaefer,730818.52,FXForward
+ANG/MOP,96.77,2023-04-15,267,"Renner, Schowalter and Lindgren",364072.01,FXForward
+IDR/STN,18.02,2023-06-01,268,Gibson LLC,952540.59,FXForward
+DJF/KYD,2.57,2026-09-05,269,Parker - Conroy,291921.99,FXForward
+UAH/PAB,2.74,2024-11-10,270,Fay - Sauer,973073.23,FXForward
+XPT/BGN,8.36,2024-05-31,271,Legros Group,654195.02,FXForward
+CVE/CZK,29.88,2027-05-19,272,"O'Kon, Jacobs and Flatley",374070.38,FXForward
+XPT/MXN,27.95,2029-02-20,273,Legros - Emard,960524.91,FXForward
+ZWL/IQD,61.75,2023-08-19,274,Volkman Group,760090.52,FXForward
+MMK/EUR,48.87,2027-04-17,275,Rippin Group,954016.09,FXForward
+CLP/EUR,2.35,2026-02-15,276,"Moen, Lueilwitz and Beatty",783559.50,FXForward
+JOD/FJD,96.02,2026-06-24,277,Haag - Bosco,812108.46,FXForward
+SAR/GHS,78.40,2021-05-24,278,"Wilkinson, Cummings and Grant",551308.00,FXForward
+BGN/FKP,3.85,2027-06-19,279,Koch and Sons,344805.51,FXForward
+AED/USD,65.83,2029-01-14,280,Heller Inc,229302.51,FXForward
+KHR/UGX,47.76,2029-12-11,281,Murphy Inc,525379.18,FXForward
+GYD/GEL,91.52,2024-01-03,282,O'Kon - Gutkowski,320297.17,FXForward
+PKR/BZD,28.33,2021-09-18,283,Ryan Inc,797447.36,FXForward
+XPD/GIP,86.99,2022-06-12,284,Dietrich and Sons,908636.20,FXForward
+DKK/EUR,58.85,2024-06-05,285,Langworth - Goodwin,61694.09,FXForward
+SGD/GNF,84.85,2025-08-27,286,"Larson, Upton and Kautzer",964925.59,FXForward
+BYR/BZD,34.62,2021-07-20,287,"Windler, Fahey and Schuster",860885.04,FXForward
+XCD/CDF,78.59,2023-02-28,288,Fahey - Mann,568996.29,FXForward
+AFN/CUP,70.55,2029-06-21,289,"Schmidt, Adams and Stehr",53608.17,FXForward
+HTG/XAU,41.80,2026-01-13,290,Fay Group,76381.83,FXForward
+PLN/IRR,13.34,2028-06-15,291,Hansen LLC,293105.86,FXForward
+KES/NOK,76.11,2027-09-14,292,Schaefer and Sons,746180.22,FXForward
+SAR/XPT,4.04,2022-06-17,293,"Upton, Labadie and Spinka",581769.64,FXForward
+XPF/BZD,33.30,2022-10-15,294,Abshire Group,489081.84,FXForward
+XAU/CLP,41.90,2030-01-13,295,Raynor Group,142248.63,FXForward
+XTS/JPY,52.84,2025-12-24,296,Stoltenberg Inc,822272.53,FXForward
+MYR/XAU,51.14,2025-01-03,297,Gulgowski and Sons,388643.59,FXForward
+DOP/DZD,24.32,2027-10-22,298,Dare - Moen,376192.80,FXForward
+XOF/LYD,88.60,2028-10-10,299,Metz and Sons,880958.67,FXForward
+SLL/DOP,15.65,2027-09-08,300,Wisoky and Sons,828858.00,FXForward
+SDG/XPD,57.21,2023-05-05,301,Kihn - Goldner,651365.64,FXForward
+MVR/AUD,65.14,2030-06-02,302,Klein LLC,715769.64,FXForward
+BIF/PLN,52.84,2028-06-28,303,Marks - Schiller,361766.60,FXForward
+KYD/RWF,63.63,2025-02-25,304,Parisian - Gutmann,608426.45,FXForward
+XPT/NIO,94.15,2022-02-28,305,Wisoky Group,778864.32,FXForward
+XTS/CNY,19.20,2021-09-19,306,Brown LLC,488412.93,FXForward
+KMF/TOP,54.89,2029-08-04,307,Lemke Inc,164261.59,FXForward
+XTS/SVC,52.29,2029-06-13,308,"Lueilwitz, Fisher and Barrows",640328.24,FXForward
+WST/XPT,2.66,2027-08-03,309,Powlowski LLC,143502.84,FXForward
+SYP/EGP,48.77,2023-12-05,310,"Harvey, Wolff and Witting",40177.02,FXForward
+XPT/DZD,41.80,2022-01-02,311,Von and Sons,472172.19,FXForward
+BAM/ILS,15.27,2028-01-14,312,"Jacobs, Herman and Veum",445749.15,FXForward
+MYR/CUP,53.55,2028-07-03,313,"Krajcik, Mitchell and Treutel",444228.46,FXForward
+TND/ZWL,54.17,2025-01-28,314,Marquardt - Stiedemann,874815.19,FXForward
+LBP/CNY,7.31,2021-05-21,315,"Spencer, Beatty and Heathcote",194995.53,FXForward
+GBP/PAB,81.93,2024-12-19,316,Padberg - Rau,260218.60,FXForward
+HUF/GIP,93.66,2023-09-07,317,"Runolfsson, Torp and Hickle",847540.30,FXForward
+ILS/BTN,6.80,2025-03-14,318,"Stamm, Effertz and Yundt",607697.21,FXForward
+AFN/KPW,82.50,2025-08-28,319,Brakus - Harris,610607.56,FXForward
+CUP/XPF,3.80,2026-05-21,320,Lang Group,460418.82,FXForward
+LYD/SYP,40.60,2030-11-13,321,"Feest, Okuneva and Ankunding",824491.34,FXForward
+HKD/HUF,19.21,2030-02-22,322,"Hane, Stokes and Aufderhar",948695.18,FXForward
+SYP/KYD,53.95,2025-06-02,323,Raynor Inc,343726.30,FXForward
+NGN/XBA,17.51,2026-02-09,324,Satterfield Inc,777941.24,FXForward
+AMD/HTG,92.50,2027-11-03,325,"Carter, Ratke and Becker",565425.48,FXForward
+BBD/CUP,47.25,2023-12-26,326,Brekke Group,416271.12,FXForward
+LYD/LKR,20.64,2026-01-14,327,Spinka and Sons,472868.17,FXForward
+CRC/BSD,42.63,2028-02-25,328,Daniel - Wyman,288233.46,FXForward
+BZD/HKD,8.77,2025-01-29,329,Davis - Douglas,633523.53,FXForward
+MYR/ZWL,25.47,2027-03-20,330,Pollich and Sons,341973.92,FXForward
+VEF/AFN,27.28,2027-10-10,331,Langosh - Grady,54149.26,FXForward
+ILS/PHP,47.52,2023-02-28,332,McClure - Cremin,844268.84,FXForward
+USD/BYR,98.08,2028-11-09,333,"Goyette, Thiel and Towne",986588.25,FXForward
+XBA/KGS,91.92,2025-03-22,334,"Hettinger, Schoen and Auer",864473.72,FXForward
+UGX/MNT,90.74,2026-11-03,335,Ortiz - Smith,372290.99,FXForward
+AMD/LKR,21.45,2023-12-30,336,Lynch Inc,243538.64,FXForward
+NPR/TTD,37.87,2024-04-28,337,Grimes - Carroll,365731.07,FXForward
+PGK/PKR,68.20,2028-08-29,338,Veum LLC,467044.59,FXForward
+GTQ/KYD,34.71,2031-02-12,339,"Wintheiser, Ziemann and Schoen",350292.85,FXForward
+MGA/XCD,88.86,2027-03-20,340,Rath - Marvin,814606.21,FXForward
+TMT/USD,29.03,2026-08-20,341,"DuBuque, Mitchell and Gusikowski",553611.13,FXForward
+XDR/LTL,87.41,2025-08-09,342,VonRueden Group,440489.28,FXForward
+XCD/IDR,84.52,2029-01-04,343,Beer and Sons,408361.53,FXForward
+LTL/TMT,99.03,2028-11-14,344,D'Amore - Botsford,803957.23,FXForward
+IQD/CRC,15.74,2026-06-17,345,"Thompson, Kertzmann and Blick",437199.23,FXForward
+MDL/DZD,70.07,2025-02-22,346,"Ferry, Lehner and Koepp",541196.40,FXForward
+UAH/VEF,75.93,2026-07-31,347,Stracke and Sons,183134.77,FXForward
+AUD/GHS,92.87,2022-07-30,348,Morar LLC,486405.71,FXForward
+ZMK/XPD,88.07,2024-07-10,349,Baumbach - Beahan,796649.47,FXForward
+UYU/QAR,86.74,2022-05-02,350,"Brakus, Brown and Haley",308784.79,FXForward
+SAR/AWG,57.91,2024-06-25,351,Medhurst Inc,348437.98,FXForward
+THB/XPF,60.17,2024-08-24,352,"Douglas, MacGyver and Johns",29646.16,FXForward
+ERN/NAD,8.64,2024-03-17,353,"Kohler, Daugherty and Turner",391214.84,FXForward
+XPF/WST,38.31,2030-09-21,354,"Rodriguez, Kilback and Erdman",326616.75,FXForward
+LBP/LRD,8.38,2028-10-01,355,"Schmitt, Satterfield and Swaniawski",991303.99,FXForward
+CLP/SEK,97.41,2029-12-19,356,Upton Group,330966.95,FXForward
+HUF/CAD,26.19,2025-04-27,357,Pfeffer Inc,712282.84,FXForward
+WST/NZD,54.02,2027-10-07,358,Skiles Group,690219.75,FXForward
+LKR/SDG,42.56,2024-05-16,359,"Funk, Schmidt and Luettgen",104227.92,FXForward
+JOD/NGN,73.14,2023-10-02,360,O'Reilly - Daugherty,427861.60,FXForward
+EEK/IDR,65.84,2026-06-23,361,Rolfson - Denesik,183964.91,FXForward
+JMD/VUV,70.88,2024-12-20,362,Orn - Nicolas,604832.96,FXForward
+KHR/SYP,72.53,2031-02-06,363,Kuvalis Group,913446.32,FXForward
+ZAR/XDR,24.93,2022-09-22,364,"Jakubowski, Sporer and Kris",82794.06,FXForward
+LAK/NOK,90.37,2022-09-18,365,Johns - Stiedemann,354367.86,FXForward
+TZS/XBD,63.22,2030-11-07,366,Nader Group,72670.64,FXForward
+UAH/SBD,2.72,2023-05-12,367,"Ebert, Trantow and Padberg",817978.86,FXForward
+KPW/LYD,73.67,2025-03-03,368,Shanahan - Lakin,178845.51,FXForward
+ALL/SVC,90.23,2021-05-08,369,White - Kling,851105.19,FXForward
+XPF/LVL,21.16,2026-07-19,370,"Homenick, Champlin and VonRueden",907523.07,FXForward
+HNL/PAB,71.79,2029-08-09,371,Ruecker Inc,574119.59,FXForward
+XTS/NPR,13.77,2022-01-04,372,Bechtelar Group,397622.81,FXForward
+TOP/KZT,99.19,2028-01-03,373,"Herzog, Wintheiser and Daugherty",104123.17,FXForward
+GMD/KZT,33.37,2024-03-31,374,Kilback LLC,109462.21,FXForward
+TWD/BZD,32.95,2028-08-30,375,Cruickshank - Reynolds,701630.25,FXForward
+NZD/TTD,77.75,2031-03-18,376,Stracke LLC,128055.63,FXForward
+KHR/LKR,30.51,2021-09-25,377,"Ernser, Mertz and Leffler",33618.81,FXForward
+UZS/NOK,44.07,2022-05-01,378,"Gottlieb, Daniel and Cormier",721240.69,FXForward
+WST/DOP,63.57,2025-09-20,379,Kessler and Sons,369278.84,FXForward
+BAM/EGP,66.80,2027-01-30,380,Weber Group,863937.87,FXForward
+FJD/EEK,69.32,2025-08-01,381,Blick Group,807640.63,FXForward
+NGN/GMD,1.41,2022-05-15,382,Vandervort - Stokes,156137.49,FXForward
+LRD/IDR,37.45,2030-03-16,383,"Labadie, Kuvalis and Hayes",586697.20,FXForward
+CRC/USD,4.25,2026-05-10,384,Hauck - Leuschke,549104.11,FXForward
+PGK/UYU,7.45,2028-10-04,385,Koelpin - Ryan,732015.44,FXForward
+VEF/TMT,92.12,2027-10-18,386,"Rath, Windler and Hessel",479656.40,FXForward
+ZMK/TMT,72.71,2026-03-09,387,Macejkovic LLC,329779.98,FXForward
+LRD/BBD,81.72,2027-10-22,388,"Ortiz, Treutel and Crona",879270.23,FXForward
+AZN/QAR,42.69,2027-03-23,389,Spencer Inc,374716.94,FXForward
+KES/SOS,55.27,2027-06-12,390,Runolfsson - Howe,14237.58,FXForward
+MZN/RSD,4.67,2023-09-27,391,"Abernathy, Grady and Hackett",175856.63,FXForward
+EEK/XBA,54.32,2029-08-04,392,"D'Amore, Daugherty and McKenzie",96758.48,FXForward
+XBA/GTQ,73.74,2025-02-08,393,"Welch, Parker and Goodwin",122464.80,FXForward
+XFU/HUF,54.31,2031-02-05,394,Heaney and Sons,506441.22,FXForward
+KRW/CNY,19.36,2022-08-12,395,Schaefer - Lang,474844.25,FXForward
+MGA/MNT,49.15,2026-01-04,396,Kuhn - Friesen,4015.03,FXForward
+PEN/XAF,38.50,2021-04-21,397,Tromp - Monahan,933426.91,FXForward
+SZL/DJF,24.02,2029-08-21,398,Dooley - O'Kon,705546.55,FXForward
+AOA/ILS,40.16,2029-01-27,399,Carroll Group,107102.69,FXForward
+AZN/SLL,86.66,2026-02-16,400,Conroy - Sawayn,406447.22,FXForward
+NZD/ILS,59.61,2025-04-29,401,"Abernathy, Walsh and Bartoletti",735063.89,FXForward
+LTL/INR,12.90,2023-10-20,402,Bashirian - Ferry,509952.56,FXForward
+ISK/KRW,22.75,2026-04-10,403,Williamson - Hyatt,779797.31,FXForward
+XPD/SCR,33.23,2023-01-15,404,"Kilback, Kshlerin and Boyer",978643.58,FXForward
+KRW/SYP,15.93,2028-05-06,405,"Runolfsson, Graham and DuBuque",98812.16,FXForward
+ZWL/TJS,65.50,2022-11-13,406,Hamill - Cruickshank,267600.62,FXForward
+LBP/MXN,69.71,2026-08-30,407,Ryan - Kovacek,702847.54,FXForward
+MXN/HRK,90.55,2024-08-30,408,"Cruickshank, Swift and Kutch",423821.89,FXForward
+GYD/MKD,63.47,2027-07-04,409,Mertz - Sporer,43171.37,FXForward
+KWD/SBD,44.13,2029-07-10,410,"Veum, Vandervort and Hartmann",564065.45,FXForward
+JMD/CZK,58.77,2028-01-04,411,Ward Group,471062.55,FXForward
+GEL/XPT,98.63,2023-11-19,412,Goldner Group,659529.48,FXForward
+HNL/ETB,83.48,2022-02-15,413,"Hilll, Dibbert and Schroeder",113524.96,FXForward
+SEK/COP,5.85,2027-04-26,414,"O'Keefe, Schaefer and Douglas",339532.37,FXForward
+ERN/JOD,25.64,2025-01-09,415,Jacobs Inc,865079.91,FXForward
+JOD/XPT,92.33,2022-01-20,416,Fritsch LLC,961014.15,FXForward
+SDG/ZAR,67.84,2021-07-31,417,Block - Langworth,630438.89,FXForward
+LBP/VEF,55.47,2028-06-10,418,Moen - Lockman,800361.91,FXForward
+DKK/BBD,12.55,2029-03-18,419,Parisian - Pfeffer,584980.28,FXForward
+BIF/BSD,38.64,2028-04-13,420,Robel - Doyle,514.87,FXForward
+KMF/XAU,29.70,2028-07-13,421,"Champlin, Quigley and Nienow",662029.21,FXForward
+KZT/XBB,26.57,2028-04-07,422,Kreiger LLC,849120.12,FXForward
+HTG/VND,56.62,2030-11-03,423,Hessel LLC,267324.04,FXForward
+XOF/FKP,21.88,2029-10-13,424,"Blanda, Wisoky and Runolfsson",677996.30,FXForward
+COP/TMT,39.11,2029-12-02,425,"Heaney, Cormier and Von",52164.11,FXForward
+BMD/USD,93.94,2024-05-04,426,McLaughlin and Sons,941861.09,FXForward
+MMK/FKP,14.07,2028-02-20,427,Ruecker LLC,431027.27,FXForward
+BDT/DJF,41.77,2021-04-23,428,"Herman, Walsh and Lehner",45158.42,FXForward
+LSL/CUP,93.35,2030-01-23,429,Maggio - Carroll,779450.62,FXForward
+TJS/LSL,13.06,2029-07-29,430,Okuneva - Wolf,465093.79,FXForward
+KGS/KES,7.37,2021-05-20,431,Tillman - Lakin,552273.52,FXForward
+VND/TWD,12.51,2025-02-10,432,Brown Group,860935.08,FXForward
+TZS/MMK,7.67,2027-01-17,433,Weissnat LLC,274054.49,FXForward
+DOP/CLP,37.48,2029-04-01,434,"Luettgen, Beatty and Mohr",164623.92,FXForward
+NGN/BOB,48.93,2022-05-22,435,"Osinski, Dickinson and Prosacco",865454.98,FXForward
+ALL/QAR,53.40,2027-04-03,436,Stroman - Hilll,72705.52,FXForward
+AED/UZS,80.59,2030-08-14,437,Smitham - Jacobi,856624.66,FXForward
+ALL/XPF,44.59,2021-12-18,438,"Stoltenberg, Hessel and Konopelski",843636.96,FXForward
+CZK/ILS,46.96,2029-02-23,439,Corkery Group,678178.99,FXForward
+MOP/JMD,7.43,2026-12-30,440,"Wolff, Durgan and Durgan",660465.11,FXForward
+TZS/ISK,77.11,2021-10-06,441,"Hand, Wolf and Wehner",697605.54,FXForward
+XBD/XCD,0.64,2029-11-13,442,"Rogahn, Bailey and Gleason",530820.44,FXForward
+LRD/XDR,7.19,2024-03-18,443,Mills - Von,187918.77,FXForward
+ZAR/JMD,27.42,2023-03-16,444,"Metz, Reilly and Cronin",322833.43,FXForward
+HNL/MRO,90.70,2022-11-24,445,Kovacek - Champlin,460966.71,FXForward
+KYD/GIP,28.77,2027-11-04,446,Reichert - Rowe,449018.83,FXForward
+USD/AWG,86.62,2025-05-14,447,"Terry, Kozey and O'Hara",636995.13,FXForward
+THB/PGK,99.08,2024-09-15,448,"Schamberger, Beahan and Torphy",398514.52,FXForward
+CUC/AZN,0.99,2021-08-01,449,Klein Group,395805.32,FXForward
+GTQ/KRW,50.48,2027-09-13,450,"DuBuque, Hahn and Spinka",423381.61,FXForward
+TND/KHR,26.18,2021-11-05,451,VonRueden LLC,553359.73,FXForward
+EGP/XPD,12.80,2025-11-18,452,Roob - Stokes,272193.62,FXForward
+GHS/RWF,41.53,2027-09-23,453,Abernathy Group,775587.48,FXForward
+MWK/MMK,48.33,2027-06-01,454,Ziemann - Spencer,555061.93,FXForward
+BTN/TMT,49.91,2021-08-01,455,Rosenbaum - Parisian,713972.30,FXForward
+CDF/SVC,60.78,2023-11-29,456,Heaney - Schultz,301857.71,FXForward
+NOK/SHP,35.25,2025-05-25,457,Hoppe and Sons,303254.60,FXForward
+MZN/SDG,48.97,2029-10-11,458,Wuckert - Welch,793947.47,FXForward
+FKP/KGS,8.91,2024-07-02,459,Friesen Group,478993.03,FXForward
+WST/BRL,49.22,2029-10-29,460,Schowalter - Cronin,945838.61,FXForward
+DJF/CRC,1.24,2027-11-02,461,McClure - Hilpert,180813.89,FXForward
+UYU/SCR,44.58,2030-05-26,462,Glover - Ebert,389798.89,FXForward
+BWP/ZMK,76.91,2024-03-31,463,"Wisoky, Bartell and Turcotte",866720.67,FXForward
+MOP/JMD,48.71,2022-03-22,464,"Schmidt, Schamberger and Marks",406721.75,FXForward
+PHP/BIF,23.59,2023-08-30,465,Abernathy - Harvey,309069.58,FXForward
+LRD/TOP,36.33,2023-10-17,466,Zieme Inc,699429.67,FXForward
+NAD/EUR,58.53,2027-05-01,467,Ullrich Inc,590320.14,FXForward
+ZWL/SLL,82.06,2030-04-30,468,"Emard, Homenick and Fadel",83395.58,FXForward
+HRK/XOF,66.60,2027-08-11,469,"Gusikowski, Kihn and Marvin",542742.20,FXForward
+MKD/AED,42.66,2024-07-06,470,Zieme LLC,595354.47,FXForward
+BOB/CDF,41.76,2028-08-15,471,Murray and Sons,896808.09,FXForward
+CDF/BDT,26.38,2025-02-17,472,Jones - Rath,13518.67,FXForward
+MUR/MYR,14.55,2030-07-18,473,"Reinger, Kutch and Waelchi",674387.97,FXForward
+GIP/SBD,38.07,2029-04-05,474,Douglas - McKenzie,37462.10,FXForward
+PKR/CDF,2.53,2029-09-23,475,"Pfannerstill, Bradtke and Larkin",5962.57,FXForward
+LRD/NAD,73.37,2023-02-15,476,Upton Inc,652607.87,FXForward
+SYP/AZN,16.08,2031-01-10,477,"Schiller, Kutch and Lakin",646713.68,FXForward
+SHP/HRK,21.75,2025-03-15,478,"West, Simonis and Powlowski",132364.53,FXForward
+BGN/IDR,89.50,2029-08-13,479,Cruickshank - Stroman,790896.43,FXForward
+XAF/DOP,85.41,2029-11-06,480,Orn - VonRueden,271785.71,FXForward
+BRL/XDR,4.43,2024-11-01,481,Ullrich - Thompson,289708.29,FXForward
+CDF/NAD,18.21,2030-04-10,482,Trantow Inc,195684.10,FXForward
+GYD/AFN,70.95,2022-10-19,483,Bogisich - Metz,570774.25,FXForward
+ERN/SCR,87.41,2028-07-26,484,Schultz - Harber,388798.68,FXForward
+XDR/GBP,46.03,2022-06-27,485,"Spencer, Nikolaus and Schuster",449379.00,FXForward
+SBD/RWF,44.43,2026-02-27,486,Rosenbaum - Dickens,146223.48,FXForward
+GHS/MRO,48.44,2023-04-04,487,Smith Group,622799.23,FXForward
+BOB/HRK,1.97,2026-01-28,488,"Pagac, Gutkowski and Metz",655635.61,FXForward
+KYD/MDL,81.33,2022-08-31,489,Hackett and Sons,361423.77,FXForward
+AED/XBD,13.14,2030-02-24,490,Schmeler - Fritsch,521328.95,FXForward
+SAR/GMD,15.57,2027-07-22,491,"Ernser, Stracke and Bogan",103911.16,FXForward
+JPY/KMF,16.85,2027-12-27,492,"Friesen, Wiza and Stracke",463092.96,FXForward
+MYR/HRK,97.54,2026-03-01,493,Hirthe - Boyer,124344.71,FXForward
+SZL/CNY,71.15,2028-10-28,494,"Roberts, Feest and Pacocha",727486.56,FXForward
+AFN/CUC,73.59,2028-08-06,495,"Koss, Watsica and Hintz",527810.40,FXForward
+JOD/UAH,35.28,2024-08-25,496,Smitham and Sons,989052.71,FXForward
+PLN/MNT,10.99,2027-06-23,497,Roob - Schaefer,778885.49,FXForward
+LTL/TRY,15.22,2028-05-28,498,"Luettgen, Waelchi and Wiegand",990837.87,FXForward
+XPF/BTN,90.54,2025-03-08,499,Will - Feest,294990.10,FXForward
+IDR/KES,32.13,2025-03-24,500,"Bernier, Collins and Emard",842257.71,FXForward
+EGP/XFU,82.45,2028-11-11,501,Jerde - Walker,973619.93,FXForward
+THB/AOA,12.05,2024-02-01,502,"Kling, Glover and Schaden",738927.75,FXForward
+JMD/XAG,39.05,2029-05-13,503,"Stroman, Carter and Batz",480696.59,FXForward
+DJF/MGA,63.01,2027-04-14,504,Wiza - Jakubowski,18790.67,FXForward
+GBP/AMD,40.96,2026-09-09,505,Huel Inc,736967.62,FXForward
+BND/GMD,10.20,2022-03-26,506,Veum LLC,603761.75,FXForward
+IDR/VEF,2.35,2021-09-16,507,Koss - Lindgren,202655.70,FXForward
+IDR/PLN,24.59,2028-11-16,508,Kemmer - Kovacek,850791.00,FXForward
+XAU/MRO,60.34,2029-10-04,509,Connelly LLC,642679.27,FXForward
+TMT/SCR,16.58,2030-01-07,510,"Kuvalis, Dietrich and Kreiger",247383.77,FXForward
+KMF/ERN,29.48,2024-12-25,511,Klocko LLC,972024.46,FXForward
+MWK/CUP,63.67,2027-12-19,512,Cremin Group,551764.35,FXForward
+CZK/AMD,86.59,2028-03-30,513,"Kirlin, Windler and Osinski",459373.26,FXForward
+TND/TOP,73.11,2024-05-09,514,Stark - Okuneva,546070.54,FXForward
+SHP/XBA,33.16,2024-01-18,515,"Bauch, Dickinson and Lang",785685.79,FXForward
+GYD/MWK,81.10,2024-12-30,516,"Howell, Rowe and Grimes",150355.87,FXForward
+BOB/KPW,87.25,2024-01-29,517,Ritchie - Kunze,412484.59,FXForward
+ILS/BOB,24.65,2027-02-06,518,"Huels, Nienow and Schuster",394590.22,FXForward
+SGD/BBD,33.90,2023-02-24,519,Kihn Inc,92070.51,FXForward
+HUF/MOP,9.88,2028-08-26,520,Nicolas - Braun,400348.80,FXForward
+MXN/XFU,76.04,2027-08-26,521,Koch - Zemlak,809977.69,FXForward
+KYD/GTQ,3.00,2027-10-19,522,Schimmel - Kutch,694657.28,FXForward
+PLN/GEL,61.54,2028-01-01,523,Marks Inc,115633.81,FXForward
+SZL/XAF,59.08,2029-11-20,524,Farrell LLC,798247.67,FXForward
+BSD/KRW,1.32,2023-06-05,525,Bogisich - Witting,899025.05,FXForward
+PKR/SLL,18.85,2027-05-07,526,"Ledner, McDermott and Ward",568772.61,FXForward
+NAD/BHD,14.61,2029-09-24,527,Herman - Rutherford,365853.99,FXForward
+XTS/VUV,63.09,2023-04-29,528,O'Keefe and Sons,320751.99,FXForward
+BYR/MNT,61.11,2026-11-15,529,Crona - Hickle,338534.20,FXForward
+BND/MGA,49.53,2025-07-14,530,"Kemmer, Champlin and Powlowski",686287.13,FXForward
+LVL/MVR,0.40,2029-07-19,531,Hahn LLC,818099.02,FXForward
+XAU/SGD,65.66,2030-10-30,532,Schinner Group,674245.84,FXForward
+LKR/XDR,74.15,2023-06-16,533,"Walter, Kuhlman and Hilll",850041.44,FXForward
+CHF/DOP,14.19,2029-09-26,534,Lubowitz - Wilkinson,452350.02,FXForward
+CDF/NPR,36.14,2026-06-10,535,"Runte, Luettgen and Breitenberg",384167.93,FXForward
+BBD/SDG,47.15,2028-09-16,536,Rice Group,883082.29,FXForward
+SGD/JMD,78.31,2027-04-30,537,"Daniel, Bailey and Champlin",573164.04,FXForward
+XBA/MYR,64.09,2029-08-09,538,Abernathy Inc,372362.45,FXForward
+TJS/XAG,0.56,2024-08-30,539,"Wilderman, Brakus and Stamm",342955.81,FXForward
+HUF/USD,48.35,2028-05-31,540,Dickens - Veum,332444.51,FXForward
+HNL/AWG,16.64,2024-07-13,541,Beahan Inc,715493.18,FXForward
+COP/CHF,18.74,2021-10-29,542,"Bergnaum, Metz and Hahn",141659.29,FXForward
+OMR/JOD,13.77,2022-07-12,543,Rowe and Sons,894119.02,FXForward
+FKP/SRD,16.48,2026-12-15,544,Hand Inc,869921.07,FXForward
+BRL/RON,90.42,2030-08-27,545,Prohaska - Lehner,522899.01,FXForward
+SAR/CVE,22.20,2021-08-15,546,MacGyver - Rau,288661.25,FXForward
+TWD/MZN,65.14,2031-02-07,547,"Goyette, Glover and Block",113898.31,FXForward
+KZT/MDL,32.01,2025-08-18,548,Bogisich - Reinger,968066.22,FXForward
+XOF/JPY,85.50,2025-08-23,549,"Kshlerin, Krajcik and Murphy",664602.03,FXForward
+KPW/AUD,10.01,2022-12-19,550,Becker - Parisian,849122.64,FXForward
+KYD/UYU,12.00,2030-01-28,551,Zboncak and Sons,84936.44,FXForward
+YER/BBD,5.02,2025-04-01,552,Ledner - McCullough,178238.59,FXForward
+BAM/HUF,86.67,2023-07-21,553,"West, Ratke and Rogahn",402702.77,FXForward
+CLP/AUD,62.60,2029-04-26,554,"King, Leffler and Witting",131304.15,FXForward
+GMD/PHP,35.51,2028-10-25,555,Lebsack Group,348012.89,FXForward
+LBP/GNF,0.48,2024-02-27,556,Johns Group,676838.94,FXForward
+BHD/PLN,60.76,2029-11-24,557,"Kub, Harber and Hermann",763836.52,FXForward
+INR/MOP,55.22,2022-12-16,558,"Hyatt, Medhurst and Ullrich",411368.06,FXForward
+BGN/JMD,65.10,2030-09-10,559,"Lehner, Lowe and Lang",650698.65,FXForward
+MKD/RWF,13.79,2028-02-06,560,"Bayer, Lowe and Effertz",146868.36,FXForward
+EGP/LTL,52.33,2023-09-16,561,"Goodwin, Bashirian and Fahey",872550.43,FXForward
+BWP/GNF,53.88,2026-01-20,562,"Sporer, Rath and Bednar",283113.04,FXForward
+BRL/CAD,72.13,2026-11-29,563,"Kuhic, Sipes and Funk",961292.57,FXForward
+DOP/GBP,67.92,2029-07-04,564,Macejkovic Inc,72123.73,FXForward
+GTQ/AMD,12.74,2029-08-30,565,Champlin LLC,656933.87,FXForward
+SYP/KMF,91.11,2027-05-20,566,Schoen - Fay,870578.72,FXForward
+LAK/GTQ,92.50,2022-02-16,567,White LLC,847041.47,FXForward
+ZMK/SAR,62.36,2025-09-03,568,Pagac Inc,963564.03,FXForward
+AED/TZS,42.61,2025-12-16,569,Koepp - Sporer,173500.57,FXForward
+UZS/TOP,88.80,2027-10-15,570,"Johns, Harris and Hackett",915254.73,FXForward
+UGX/ILS,96.78,2023-05-01,571,Balistreri - Goodwin,620992.93,FXForward
+CLP/UYU,94.10,2023-02-15,572,Lakin - Nader,843191.82,FXForward
+NPR/DZD,52.25,2023-03-03,573,"Kunde, Gutkowski and Mayert",737700.06,FXForward
+CNY/GNF,87.96,2024-03-09,574,Beatty Group,618212.26,FXForward
+TWD/MRO,10.64,2030-01-28,575,Heidenreich LLC,350862.91,FXForward
+MRO/MXN,38.99,2022-07-19,576,"Lubowitz, Hahn and Schiller",622604.74,FXForward
+XBC/ARS,79.79,2028-10-20,577,Herzog and Sons,309814.47,FXForward
+NGN/GHS,20.52,2028-11-02,578,Pollich - Hackett,987110.87,FXForward
+UGX/ZAR,94.84,2023-04-01,579,Stanton - Kunze,277399.12,FXForward
+MWK/NPR,47.86,2027-03-18,580,"Runolfsson, Becker and Volkman",729912.72,FXForward
+LSL/JPY,31.14,2029-12-16,581,Baumbach - Welch,383096.97,FXForward
+XAU/ISK,26.57,2022-05-18,582,Homenick - Steuber,799247.94,FXForward
+BRL/GIP,14.94,2025-05-23,583,Bernhard LLC,73778.19,FXForward
+XAG/AMD,87.01,2022-03-17,584,Monahan Inc,984133.63,FXForward
+IQD/MYR,44.49,2023-02-26,585,"Hyatt, Bosco and Flatley",262136.27,FXForward
+JOD/TTD,38.14,2029-03-06,586,Feeney - Medhurst,93964.26,FXForward
+LRD/CZK,89.38,2026-08-23,587,"Pollich, Kunze and Upton",404951.05,FXForward
+NAD/MZN,51.20,2028-12-09,588,Hills and Sons,327288.51,FXForward
+RON/LVL,24.78,2030-03-09,589,"Kunde, Grimes and Bailey",845506.17,FXForward
+TOP/SYP,19.65,2022-01-20,590,"Berge, Lynch and Halvorson",906329.75,FXForward
+XCD/XAU,34.84,2028-07-31,591,Hintz Inc,423712.74,FXForward
+KMF/PLN,8.06,2024-08-07,592,DuBuque Inc,858070.16,FXForward
+XTS/AMD,0.42,2027-11-24,593,Halvorson - Bogisich,764081.28,FXForward
+DOP/COP,57.11,2026-04-12,594,Sanford - Conn,337073.61,FXForward
+MZN/MRO,57.60,2025-05-07,595,Upton and Sons,138198.13,FXForward
+AOA/GBP,41.06,2026-01-23,596,"Carroll, Hodkiewicz and Grant",63134.34,FXForward
+BRL/GTQ,36.97,2026-07-15,597,"Kshlerin, Kub and Padberg",432528.17,FXForward
+BRL/PGK,68.69,2028-07-29,598,"Connelly, Rolfson and Anderson",508912.60,FXForward
+XAF/SOS,68.22,2022-03-11,599,Jacobs - Weissnat,749005.47,FXForward
+MAD/SHP,86.09,2023-08-22,600,"Oberbrunner, Raynor and Metz",486182.18,FXForward
+XPD/SZL,5.73,2027-09-13,601,"Bogisich, Schuster and Price",794474.45,FXForward
+FJD/PLN,37.62,2024-05-01,602,O'Keefe - Ondricka,608755.70,FXForward
+SRD/ZMK,34.35,2023-12-28,603,"Altenwerth, Lesch and Feil",603749.51,FXForward
+PHP/AMD,15.05,2024-01-20,604,O'Hara - Walter,421099.02,FXForward
+SHP/KZT,17.41,2028-03-20,605,Lockman - Stracke,29240.20,FXForward
+EGP/IRR,6.73,2023-07-04,606,Haag Inc,425273.22,FXForward
+ZWL/BIF,34.63,2029-08-03,607,Romaguera LLC,327282.35,FXForward
+BYR/DOP,79.92,2027-08-11,608,Leffler - Graham,116908.16,FXForward
+MDL/GBP,2.48,2026-11-05,609,Hartmann - Spinka,104558.66,FXForward
+XTS/XCD,3.30,2024-02-04,610,Little - Hilll,437226.87,FXForward
+GNF/TZS,27.75,2024-08-13,611,Quigley - Ferry,882386.19,FXForward
+COP/AZN,56.14,2021-06-29,612,Barton LLC,200894.98,FXForward
+MOP/XTS,70.88,2030-05-24,613,Jacobi - Veum,902116.71,FXForward
+XBC/VND,43.64,2026-03-25,614,"Cruickshank, Wisoky and Kling",723938.75,FXForward
+XBD/HNL,68.98,2021-11-11,615,Lemke and Sons,980916.09,FXForward
+UAH/IRR,30.22,2031-02-18,616,Turner - Kreiger,599422.73,FXForward
+BYR/SOS,62.15,2031-04-12,617,Waters - Mante,6373.79,FXForward
+UAH/NZD,29.11,2023-01-06,618,Cremin Inc,855652.11,FXForward
+BZD/ARS,58.92,2022-01-05,619,Quigley Inc,524834.03,FXForward
+EEK/GTQ,90.48,2029-02-12,620,Stamm Inc,58591.21,FXForward
+GMD/KPW,36.19,2023-12-12,621,Kovacek - Hodkiewicz,977892.88,FXForward
+UGX/EEK,90.28,2027-06-08,622,"Kautzer, O'Hara and Ruecker",186633.15,FXForward
+TJS/UYU,30.84,2024-09-20,623,Hessel Inc,214672.33,FXForward
+MWK/SZL,1.87,2023-10-16,624,Sawayn - Graham,711089.15,FXForward
+GYD/WST,80.80,2024-10-05,625,Dickens - Hermann,230560.49,FXForward
+XAG/ISK,61.44,2022-07-25,626,"Morar, Rath and Howe",825979.08,FXForward
+MXN/XAG,62.42,2021-12-28,627,Ward - White,788911.66,FXForward
+MVR/IDR,66.08,2027-08-21,628,Schmitt - Oberbrunner,77100.63,FXForward
+RSD/GNF,43.03,2026-11-01,629,Shields - Nolan,876647.24,FXForward
+MGA/NZD,39.60,2028-01-03,630,"Hahn, Cruickshank and Collier",922545.26,FXForward
+LAK/TND,30.21,2028-08-10,631,Carroll - Smith,70142.44,FXForward
+FKP/IDR,26.58,2021-10-24,632,Pagac Inc,162083.25,FXForward
+KZT/CAD,49.82,2025-04-03,633,"Hahn, Bednar and Roberts",737836.89,FXForward
+CAD/BSD,19.09,2023-10-20,634,Gerhold LLC,490727.61,FXForward
+MWK/AZN,3.72,2024-09-20,635,Wisozk - Fay,824411.71,FXForward
+JMD/MAD,96.15,2030-04-12,636,Langosh LLC,358214.88,FXForward
+PLN/XFU,13.10,2031-01-10,637,Dach Inc,554585.16,FXForward
+MZN/EGP,1.54,2026-11-17,638,Padberg - Kiehn,535264.96,FXForward
+DZD/CUC,25.70,2021-06-29,639,"Veum, Stracke and Homenick",35630.55,FXForward
+BZD/AED,51.86,2024-03-30,640,McLaughlin - Welch,522586.34,FXForward
+NOK/LKR,83.74,2023-11-17,641,"Jast, Wolf and Volkman",636424.17,FXForward
+SYP/XBC,49.53,2021-12-14,642,Towne - Morar,501994.93,FXForward
+VND/VEF,98.16,2030-10-11,643,Kris - Nienow,580127.12,FXForward
+KYD/CVE,67.05,2030-07-10,644,Fritsch - Heaney,187863.27,FXForward
+PKR/ERN,31.41,2025-03-10,645,Rolfson Group,39433.53,FXForward
+PKR/MGA,63.77,2028-02-28,646,Sanford - Robel,299855.91,FXForward
+XAF/SEK,96.42,2026-10-30,647,Koch - Ondricka,524937.15,FXForward
+PLN/TTD,28.81,2023-06-27,648,"Wisoky, Bradtke and Heidenreich",133282.64,FXForward
+KHR/EEK,16.52,2023-10-18,649,"Gibson, Ankunding and Blanda",455967.61,FXForward
+GNF/AMD,61.23,2027-11-06,650,Boehm Inc,681809.26,FXForward
+MMK/TMT,27.89,2021-10-01,651,"Zemlak, Leuschke and Considine",41730.03,FXForward
+YER/KYD,8.14,2030-10-26,652,"Considine, Wintheiser and Gaylord",894376.01,FXForward
+AOA/KPW,35.97,2027-08-12,653,Muller LLC,992095.53,FXForward
+BHD/SOS,47.84,2030-05-26,654,"Thompson, Kessler and Hahn",663310.51,FXForward
+DZD/TOP,41.10,2028-10-11,655,"Romaguera, Bins and O'Conner",734554.11,FXForward
+BRL/QAR,60.04,2024-10-29,656,Dooley Group,141808.61,FXForward
+BND/TMT,41.04,2029-10-13,657,"Yundt, Baumbach and Rogahn",957641.43,FXForward
+EEK/TJS,98.45,2022-11-06,658,"Spencer, Reynolds and Anderson",60806.52,FXForward
+TWD/MZN,28.71,2024-09-23,659,"Altenwerth, Gutkowski and Lebsack",398290.14,FXForward
+THB/SEK,31.06,2024-07-06,660,Nienow LLC,765199.40,FXForward
+GHS/EGP,88.62,2024-06-29,661,"Kerluke, Crooks and Stiedemann",649455.42,FXForward
+DKK/CHF,95.98,2030-12-07,662,"Parisian, Rippin and Barrows",968608.28,FXForward
+DZD/CNY,67.05,2028-11-28,663,Bechtelar - Fisher,589549.03,FXForward
+BBD/AMD,70.10,2028-09-11,664,Rutherford - Hahn,142077.88,FXForward
+AWG/SGD,6.21,2027-08-28,665,Heaney - Schuster,297161.80,FXForward
+GYD/CUC,42.04,2025-02-03,666,Stoltenberg Group,550970.85,FXForward
+CHF/DJF,99.56,2023-03-05,667,"Schulist, Cartwright and Gerlach",81178.55,FXForward
+XAU/QAR,3.52,2024-03-07,668,"Olson, Konopelski and Marvin",177240.10,FXForward
+XBD/VUV,98.89,2027-05-07,669,Swift - Harvey,662734.06,FXForward
+KWD/KPW,35.27,2030-08-17,670,Hickle - Gleason,119693.09,FXForward
+PYG/HNL,13.28,2029-07-27,671,Funk - Tromp,441540.24,FXForward
+BAM/XBB,97.35,2023-09-25,672,Crooks Inc,595752.75,FXForward
+AUD/CAD,89.85,2023-10-22,673,Balistreri - Purdy,545231.70,FXForward
+SLL/BBD,44.29,2023-08-01,674,Kreiger LLC,844274.28,FXForward
+SYP/NIO,62.97,2022-12-02,675,Nitzsche Group,634951.42,FXForward
+JMD/MRO,60.85,2025-03-18,676,"Lang, Lueilwitz and Rolfson",809610.59,FXForward
+TTD/XAU,19.39,2024-11-07,677,Mitchell and Sons,727378.60,FXForward
+GIP/BMD,4.25,2028-06-26,678,Dach - Deckow,676226.61,FXForward
+LTL/XCD,39.75,2026-09-28,679,"Kshlerin, Johnston and Berge",338633.61,FXForward
+XAF/XFU,3.95,2025-10-31,680,"Leuschke, McLaughlin and Corkery",441099.01,FXForward
+SVC/PKR,27.98,2022-05-30,681,"Kohler, Bailey and Kutch",306304.94,FXForward
+KGS/MDL,3.37,2031-01-28,682,King - Kuhic,453896.46,FXForward
+RUB/AMD,18.33,2021-05-07,683,"Casper, Lockman and Bechtelar",537655.45,FXForward
+GIP/ETB,63.67,2029-08-27,684,Mitchell - Durgan,207724.86,FXForward
+COP/RON,41.47,2021-11-21,685,Mayert - Powlowski,331414.78,FXForward
+IDR/BWP,7.97,2022-06-06,686,Kutch - Wiegand,58510.48,FXForward
+JPY/COP,78.19,2021-05-03,687,Wintheiser - Schowalter,492383.67,FXForward
+BDT/XBB,12.93,2023-04-16,688,Gutkowski and Sons,42761.76,FXForward
+PKR/SOS,45.74,2022-08-17,689,"Mosciski, Balistreri and Waters",339798.91,FXForward
+PYG/DZD,52.42,2022-04-06,690,"Cummerata, Deckow and Bernier",124927.12,FXForward
+DKK/TOP,69.04,2021-06-10,691,"Hansen, Kessler and Considine",434689.85,FXForward
+BTN/STN,20.95,2028-08-09,692,"Gleason, Hilpert and Yundt",469364.23,FXForward
+EEK/IDR,35.99,2025-05-16,693,Cormier Group,817555.53,FXForward
+PKR/COP,51.84,2031-01-19,694,Miller Group,192801.96,FXForward
+CUP/TWD,13.45,2027-10-18,695,Schmitt Group,704585.38,FXForward
+AFN/SBD,81.26,2024-07-03,696,Stoltenberg - Dickinson,760329.61,FXForward
+XDR/BMD,8.77,2029-02-22,697,"Walsh, Cole and Hirthe",323195.79,FXForward
+TZS/DZD,9.18,2029-11-02,698,DuBuque Inc,757938.57,FXForward
+MAD/MRO,28.37,2021-06-10,699,Hagenes LLC,991579.32,FXForward
+NOK/JPY,31.17,2029-03-02,700,Denesik and Sons,159491.60,FXForward
+CAD/PLN,23.28,2028-05-09,701,Gottlieb - Reichel,42076.00,FXForward
+XAU/TTD,63.27,2022-04-23,702,"Waelchi, Crist and Mohr",936836.56,FXForward
+KES/IRR,84.75,2024-12-03,703,"Zemlak, Howe and Frami",328724.52,FXForward
+CUP/PEN,89.44,2025-05-30,704,Robel LLC,928292.45,FXForward
+SDG/INR,7.72,2029-12-04,705,Little LLC,49949.06,FXForward
+BGN/EEK,37.40,2028-09-01,706,McDermott and Sons,676365.90,FXForward
+MRO/GHS,86.69,2024-09-19,707,Pouros and Sons,926031.46,FXForward
+LSL/SRD,73.53,2026-08-07,708,Sauer and Sons,491595.84,FXForward
+AWG/CVE,63.21,2024-05-20,709,"Leffler, Rodriguez and Gleichner",124639.66,FXForward
+COP/GHS,96.74,2024-12-21,710,Altenwerth - Shanahan,988395.32,FXForward
+VUV/VND,67.68,2022-12-19,711,"Strosin, Kulas and Erdman",968343.44,FXForward
+MZN/UZS,86.06,2030-12-07,712,"Waters, Upton and McGlynn",884278.77,FXForward
+AFN/LYD,77.59,2027-06-24,713,Kuhlman - Breitenberg,612213.81,FXForward
+AMD/LYD,48.49,2022-07-18,714,Gorczany Inc,353286.05,FXForward
+PYG/XAG,59.07,2030-11-18,715,"Swift, Frami and Hahn",744661.30,FXForward
+LYD/KPW,97.62,2022-07-31,716,Gleason LLC,722747.67,FXForward
+IRR/VND,99.43,2025-09-22,717,Rice and Sons,260789.03,FXForward
+TWD/UGX,43.55,2025-07-16,718,Quitzon - McGlynn,635653.67,FXForward
+MUR/DOP,89.41,2027-04-30,719,Treutel - Prosacco,606063.06,FXForward
+AWG/XBA,66.19,2029-09-23,720,O'Keefe - Schulist,232848.37,FXForward
+AED/VND,60.95,2021-06-04,721,Fahey Group,761339.74,FXForward
+GMD/XPT,14.47,2024-12-07,722,Stroman and Sons,947959.40,FXForward
+BTN/MZN,98.91,2029-09-13,723,"Gusikowski, Gibson and Mills",729257.13,FXForward
+JMD/KZT,4.72,2028-09-29,724,"Rodriguez, Reilly and Beatty",761575.13,FXForward
+KHR/NOK,28.70,2028-03-16,725,McKenzie - Armstrong,674171.92,FXForward
+GTQ/MWK,50.95,2025-10-16,726,Parisian - Shanahan,946112.21,FXForward
+BRL/SBD,64.67,2029-07-26,727,Romaguera - Nader,60518.40,FXForward
+LTL/LRD,93.81,2030-04-23,728,"Cassin, Carter and Torp",963336.04,FXForward
+CHF/XAF,66.36,2024-06-12,729,Hoppe - Lynch,347062.17,FXForward
+XAU/MYR,18.41,2023-06-13,730,Ankunding Group,164337.48,FXForward
+NAD/PGK,87.56,2030-09-17,731,Herzog - Nienow,822304.55,FXForward
+JPY/SHP,86.93,2023-04-25,732,Romaguera and Sons,479093.20,FXForward
+BND/ETB,87.32,2031-01-01,733,"Bayer, Romaguera and Dare",952782.70,FXForward
+ANG/MVR,93.46,2028-01-04,734,"Blanda, Parker and Rogahn",662279.34,FXForward
+XBD/XCD,50.89,2027-06-16,735,Christiansen - Spinka,115877.19,FXForward
+XBD/GTQ,14.40,2028-04-09,736,Jacobson LLC,184616.85,FXForward
+FJD/LYD,10.97,2028-12-08,737,Stanton Group,7890.73,FXForward
+MMK/SHP,74.01,2026-09-29,738,"Fisher, Luettgen and Dickinson",192895.49,FXForward
+BYR/UGX,66.74,2024-09-03,739,"Hickle, Ritchie and Herzog",770971.42,FXForward
+SYP/MOP,5.14,2025-02-23,740,"Stamm, Grant and Schaden",832952.09,FXForward
+VUV/AMD,7.83,2023-12-08,741,Rippin Group,409086.16,FXForward
+RUB/UYU,64.01,2023-02-15,742,"Hickle, Haley and Jones",629413.52,FXForward
+NAD/HTG,92.46,2026-10-29,743,"Jakubowski, Hauck and Lakin",717159.85,FXForward
+TND/PYG,14.14,2022-09-24,744,Kreiger Inc,407972.96,FXForward
+LYD/SGD,28.10,2026-05-17,745,Abernathy - Mosciski,321723.93,FXForward
+GYD/CNY,44.18,2022-10-03,746,Koss - Herman,914566.76,FXForward
+XAF/LAK,75.17,2027-03-02,747,Schultz - Collier,713655.42,FXForward
+CVE/FKP,57.29,2027-11-20,748,Haley - Roob,602081.19,FXForward
+AMD/VND,44.99,2028-02-23,749,Kuhlman Inc,841819.34,FXForward
+NAD/AFN,23.69,2022-04-02,750,Zulauf and Sons,517102.11,FXForward
+MKD/KMF,26.48,2022-02-22,751,Waelchi Group,976872.61,FXForward
+XTS/RUB,31.09,2023-03-26,752,Bartell Group,184758.66,FXForward
+NPR/BSD,79.00,2024-12-16,753,"Powlowski, Nader and Simonis",37880.89,FXForward
+EEK/NOK,47.45,2022-01-24,754,O'Kon - Thiel,203094.96,FXForward
+NOK/BZD,85.34,2023-07-09,755,Mante - Gorczany,508002.09,FXForward
+FKP/SGD,37.79,2028-03-08,756,McKenzie Group,23560.94,FXForward
+KES/AZN,43.44,2029-04-16,757,Mueller and Sons,376758.23,FXForward
+XAF/ALL,43.24,2024-12-05,758,"Moore, Blanda and Russel",385790.02,FXForward
+RWF/GMD,55.84,2029-02-05,759,Gutkowski Inc,35977.90,FXForward
+SZL/BND,72.80,2024-02-03,760,Zboncak - Altenwerth,131240.03,FXForward
+BMD/RON,60.43,2022-08-19,761,Collins LLC,304906.66,FXForward
+BHD/USD,16.57,2027-01-08,762,Lindgren - Wyman,61573.85,FXForward
+FKP/PLN,38.09,2024-07-16,763,Olson - Crona,418601.11,FXForward
+RON/CZK,51.08,2024-10-05,764,"Metz, Schmidt and Bergstrom",424126.65,FXForward
+BWP/FKP,43.98,2028-04-12,765,Dietrich - Roberts,405412.84,FXForward
+SBD/THB,82.53,2025-09-07,766,"Macejkovic, Considine and Haley",496974.08,FXForward
+ALL/MOP,75.61,2024-03-08,767,Breitenberg - Welch,309568.10,FXForward
+SDG/TTD,33.99,2026-01-16,768,Kutch - Stroman,538177.54,FXForward
+KPW/JOD,71.71,2028-07-04,769,"McLaughlin, Nitzsche and Jones",166820.41,FXForward
+EGP/XBA,2.82,2023-09-17,770,Bosco Inc,10224.45,FXForward
+LRD/PYG,98.80,2022-06-21,771,"Boyer, Botsford and Mante",36655.52,FXForward
+FKP/STN,80.44,2029-09-12,772,Runolfsdottir - Marquardt,159975.65,FXForward
+BZD/SDG,22.65,2027-03-11,773,"Breitenberg, Christiansen and Jacobson",271619.79,FXForward
+NPR/USD,29.72,2028-07-14,774,"Kilback, Leannon and Gottlieb",330965.02,FXForward
+NAD/KPW,4.97,2030-01-13,775,"Frami, Ullrich and Parisian",110899.14,FXForward
+HUF/KPW,17.05,2025-11-14,776,Corkery - MacGyver,19333.63,FXForward
+ISK/HTG,44.76,2028-11-09,777,"Treutel, Smitham and Ratke",955391.65,FXForward
+CLP/SLL,86.26,2026-10-05,778,Koss Group,227315.01,FXForward
+ZWL/CAD,97.01,2023-07-09,779,Macejkovic Group,102729.15,FXForward
+SCR/BND,8.74,2022-05-19,780,Blick Inc,28447.92,FXForward
+SVC/VND,56.61,2023-08-13,781,"Schowalter, Welch and Koelpin",9145.05,FXForward
+PKR/LBP,41.53,2028-04-12,782,Ryan - Wintheiser,211067.39,FXForward
+ILS/TOP,75.14,2029-12-21,783,Gutmann - Swaniawski,237801.42,FXForward
+KHR/AWG,10.55,2025-02-10,784,Pfeffer - Hackett,260331.84,FXForward
+MOP/GEL,69.97,2024-12-19,785,"Hermann, Hermann and Schaefer",402675.83,FXForward
+PAB/NZD,66.52,2024-08-09,786,"Nitzsche, Hilpert and Abshire",10912.47,FXForward
+MKD/ALL,19.15,2027-03-25,787,Schmitt Inc,870028.44,FXForward
+TWD/GNF,66.88,2027-02-22,788,Bernhard - Lueilwitz,305923.15,FXForward
+GMD/XOF,2.09,2023-01-12,789,Greenholt - Buckridge,627616.18,FXForward
+LRD/BBD,69.84,2027-04-02,790,"Kub, Crist and Hoeger",862231.17,FXForward
+VND/UGX,34.09,2027-04-07,791,Schuppe and Sons,166226.08,FXForward
+BAM/HTG,70.29,2025-07-05,792,"Aufderhar, Effertz and Corkery",60898.50,FXForward
+AOA/GMD,78.14,2021-09-20,793,Harber - Kunde,37705.59,FXForward
+AOA/AED,85.44,2028-05-29,794,"Bashirian, Stiedemann and Schroeder",730717.11,FXForward
+LAK/THB,3.14,2026-02-27,795,"Kuhic, Hickle and Johnson",619010.45,FXForward
+TZS/RUB,44.15,2030-10-22,796,"Schowalter, Balistreri and Schroeder",423763.13,FXForward
+MKD/BWP,86.21,2029-04-10,797,"DuBuque, Lynch and Becker",524602.49,FXForward
+DKK/GIP,35.00,2024-08-30,798,Schaden - Block,985197.24,FXForward
+SGD/AFN,54.94,2025-01-31,799,"Hauck, Abernathy and Veum",868638.26,FXForward
+BYR/GIP,8.42,2023-11-28,800,"Armstrong, Dickens and Moore",38269.17,FXForward
+UYU/GIP,75.69,2027-12-02,801,Cremin - Ortiz,960539.26,FXForward
+NOK/SLL,46.02,2022-03-06,802,Franecki and Sons,931231.41,FXForward
+LTL/MUR,50.45,2022-10-06,803,"Hayes, Kessler and Batz",871571.71,FXForward
+KWD/PLN,78.98,2030-04-24,804,Brekke - Pacocha,184572.05,FXForward
+LVL/SDG,15.49,2023-05-16,805,"Nolan, Donnelly and Orn",890845.27,FXForward
+IRR/GHS,72.84,2026-07-21,806,Rowe - Conroy,447218.51,FXForward
+JMD/CLP,60.21,2022-12-13,807,Schinner Group,45388.11,FXForward
+UYU/NOK,61.68,2021-08-09,808,"Grimes, Denesik and Boehm",477347.40,FXForward
+BGN/UYU,73.00,2030-02-20,809,Borer - Gislason,420891.95,FXForward
+SBD/COP,82.55,2030-10-01,810,Berge - Schiller,361842.64,FXForward
+VEF/MWK,48.32,2027-04-01,811,Hirthe - Steuber,939470.71,FXForward
+BDT/SLL,58.07,2022-12-03,812,Blick - Donnelly,523127.24,FXForward
+LBP/BND,99.38,2030-10-16,813,Johnson - Reynolds,193297.92,FXForward
+TTD/TRY,11.54,2022-07-17,814,Crooks LLC,99362.36,FXForward
+SRD/RUB,17.45,2022-02-16,815,Conn - Schumm,470777.04,FXForward
+PLN/DJF,81.26,2030-08-26,816,Ortiz - VonRueden,421.08,FXForward
+KRW/PGK,48.00,2026-11-07,817,Murphy - Smith,282147.07,FXForward
+USD/ISK,78.44,2028-04-15,818,Ullrich - Schuppe,694400.46,FXForward
+BOB/KHR,84.86,2023-09-22,819,"Blanda, Cruickshank and Watsica",911534.04,FXForward
+ZMK/GNF,91.34,2024-10-15,820,McGlynn - Schinner,185541.30,FXForward
+RWF/SHP,65.86,2023-12-07,821,"Mosciski, Davis and Wisoky",833305.54,FXForward
+ERN/DOP,88.45,2023-07-03,822,Smitham Group,480219.27,FXForward
+ANG/IQD,21.12,2031-03-05,823,Marvin Inc,879825.48,FXForward
+BTN/ISK,60.43,2030-05-11,824,Schamberger Inc,684105.54,FXForward
+SLL/BWP,38.95,2025-08-25,825,Beahan - Runolfsson,604249.83,FXForward
+ZMK/SYP,40.43,2024-12-11,826,O'Connell Inc,580799.72,FXForward
+LBP/SZL,24.78,2030-12-28,827,"Wintheiser, Wilkinson and Reinger",869290.87,FXForward
+XAU/SCR,23.38,2030-10-29,828,"Schimmel, Tremblay and Parker",974540.53,FXForward
+LVL/XBC,18.46,2027-05-24,829,Dietrich and Sons,280407.23,FXForward
+ZWL/GEL,38.58,2028-02-09,830,Hirthe - Heller,630506.69,FXForward
+XAF/GHS,51.75,2027-08-27,831,"Jakubowski, Kerluke and Thiel",36562.01,FXForward
+SVC/HKD,34.70,2021-09-06,832,"Harvey, Kunze and Rolfson",299678.99,FXForward
+LRD/AUD,54.22,2023-11-26,833,Durgan - Upton,631104.22,FXForward
+MGA/MDL,0.18,2023-04-27,834,"Hudson, Treutel and Hayes",982938.64,FXForward
+EUR/XBD,93.95,2027-10-02,835,Gleichner - Hermiston,916013.72,FXForward
+PAB/AOA,28.35,2030-11-22,836,"Mayert, Pollich and Stiedemann",306126.98,FXForward
+XDR/JMD,33.53,2029-01-24,837,Daugherty - Rutherford,141689.86,FXForward
+SZL/TZS,98.64,2028-10-21,838,Trantow LLC,296815.07,FXForward
+BSD/BTN,29.47,2030-12-24,839,Gleason Inc,990749.17,FXForward
+MVR/SZL,86.63,2021-11-07,840,"Robel, Konopelski and Stehr",403071.66,FXForward
+BAM/MWK,87.74,2021-07-06,841,Streich and Sons,228578.06,FXForward
+IDR/YER,75.91,2028-05-01,842,Frami Inc,319710.91,FXForward
+GIP/USD,28.00,2030-02-17,843,Durgan and Sons,980643.48,FXForward
+IQD/KZT,12.30,2028-11-01,844,"Crist, Dibbert and Walsh",482698.79,FXForward
+MKD/ARS,70.26,2023-01-13,845,Rodriguez Group,655504.32,FXForward
+PHP/THB,70.65,2022-10-18,846,"Wunsch, Cassin and Goodwin",648341.65,FXForward
+SYP/CUP,58.64,2025-10-12,847,Heller and Sons,885655.23,FXForward
+MOP/SZL,78.83,2030-04-11,848,Turner - Hirthe,952244.22,FXForward
+AWG/NGN,17.08,2027-10-31,849,Breitenberg - Fadel,807449.40,FXForward
+CHF/MKD,41.45,2023-06-28,850,"Hand, Steuber and Crist",608837.90,FXForward
+VUV/LRD,55.83,2024-12-14,851,Blick Inc,708723.24,FXForward
+DOP/KPW,21.61,2024-09-02,852,Boyle Inc,326941.47,FXForward
+XBA/BND,71.16,2023-01-30,853,Bode - Lemke,549506.47,FXForward
+USD/FKP,38.66,2030-11-30,854,"Block, Kessler and Harris",431734.24,FXForward
+SBD/PEN,66.46,2025-09-21,855,"DuBuque, Pfeffer and Parker",188887.83,FXForward
+XAU/PHP,81.77,2023-08-16,856,"Kuhic, Bashirian and Hansen",586242.33,FXForward
+EEK/BTN,92.92,2030-10-10,857,Yost Group,319659.65,FXForward
+UGX/SRD,36.57,2026-03-06,858,"Batz, Farrell and Watsica",368503.61,FXForward
+ISK/XBB,88.48,2025-11-14,859,Legros LLC,187998.36,FXForward
+LVL/MUR,69.30,2027-06-11,860,Fahey Inc,435432.73,FXForward
+KGS/ZAR,32.37,2028-10-26,861,Dicki - Jacobs,96300.73,FXForward
+MDL/LKR,65.32,2024-03-21,862,Upton LLC,438130.25,FXForward
+AUD/SAR,8.33,2031-02-07,863,"Boyle, O'Reilly and Brown",161771.30,FXForward
+GMD/LVL,53.36,2024-07-01,864,"Wisozk, Connelly and Schamberger",511961.06,FXForward
+ETB/CZK,90.42,2030-10-06,865,"Nitzsche, Hegmann and Glover",73599.23,FXForward
+TND/MYR,84.83,2026-01-19,866,Halvorson - King,948551.18,FXForward
+MWK/MAD,31.64,2022-06-18,867,Tillman - McClure,452370.02,FXForward
+SLL/NZD,9.53,2030-05-06,868,Abshire - Denesik,962681.16,FXForward
+SAR/ANG,41.29,2030-05-21,869,Quitzon Inc,945181.90,FXForward
+MNT/XBD,17.89,2026-12-22,870,Boyle Inc,766799.70,FXForward
+VUV/CVE,14.09,2021-08-09,871,"Bashirian, Turner and Monahan",952286.01,FXForward
+XPD/DKK,86.47,2023-07-07,872,Lebsack Inc,19404.75,FXForward
+XBB/TMT,36.83,2026-01-01,873,Rowe - Block,560740.45,FXForward
+NGN/PHP,82.62,2027-06-20,874,"Dietrich, Konopelski and Grant",549624.82,FXForward
+XPF/HKD,51.17,2030-01-04,875,Pouros LLC,486447.26,FXForward
+GYD/XAF,35.02,2026-10-04,876,"Lind, Kuvalis and Cummerata",889111.56,FXForward
+ETB/MOP,13.89,2024-02-05,877,"Cremin, Boyle and Adams",37798.07,FXForward
+XAG/KHR,40.26,2030-07-01,878,"Reynolds, Steuber and Kshlerin",570804.01,FXForward
+KRW/MXN,68.99,2031-03-08,879,Crona - Rice,590047.99,FXForward
+XAF/NGN,93.54,2021-05-05,880,Streich and Sons,783787.70,FXForward
+NAD/KRW,17.12,2024-10-10,881,Kub - Rempel,610193.49,FXForward
+YER/PAB,74.48,2026-03-02,882,"O'Connell, Satterfield and Armstrong",434331.13,FXForward
+JPY/SEK,53.04,2024-06-20,883,Hermiston - Dickinson,810891.05,FXForward
+LYD/TND,14.92,2030-07-01,884,Abshire LLC,834599.13,FXForward
+TND/XOF,8.42,2031-03-02,885,Wuckert - Jacobson,693636.02,FXForward
+RSD/MVR,27.98,2023-10-09,886,Von - Schamberger,790096.11,FXForward
+SRD/CUC,19.03,2028-12-21,887,Gulgowski - Kub,227361.30,FXForward
+MAD/MGA,17.72,2029-11-07,888,Greenholt Group,433701.86,FXForward
+DKK/AWG,69.41,2025-11-28,889,Boyer - Will,987480.19,FXForward
+XDR/SOS,64.25,2026-04-04,890,DuBuque and Sons,484017.12,FXForward
+XCD/CRC,28.36,2029-03-10,891,"Kassulke, Gorczany and Donnelly",311393.55,FXForward
+PLN/LTL,87.43,2028-09-13,892,Kunze - Kutch,968.41,FXForward
+AOA/MDL,60.31,2021-07-08,893,"Crooks, Mayert and Metz",292414.98,FXForward
+KZT/PLN,43.90,2028-05-16,894,"Leuschke, Runte and Quigley",840702.65,FXForward
+SDG/XCD,67.39,2023-04-15,895,Ferry Group,543835.45,FXForward
+PAB/SGD,54.94,2028-09-27,896,Luettgen - Dietrich,460043.01,FXForward
+JMD/SZL,59.53,2024-03-13,897,"McClure, Bergnaum and Tromp",434129.45,FXForward
+ARS/UZS,56.18,2030-09-25,898,"Nikolaus, Larkin and Boehm",794060.89,FXForward
+KZT/QAR,92.24,2022-03-29,899,Nienow - Ruecker,390664.63,FXForward
+HRK/TWD,22.01,2030-12-04,900,Wilkinson - Jaskolski,561625.76,FXForward
+RWF/LKR,38.35,2023-11-04,901,"Thiel, McGlynn and Lindgren",273227.97,FXForward
+MGA/IDR,89.82,2028-02-02,902,"Gottlieb, Cronin and Buckridge",787660.85,FXForward
+BWP/JPY,97.68,2024-09-14,903,Veum Group,601449.70,FXForward
+TZS/GIP,12.01,2030-10-03,904,"Schulist, Dibbert and Rempel",634861.80,FXForward
+SHP/CNY,37.78,2022-09-01,905,Gibson Inc,670210.67,FXForward
+KRW/BAM,66.34,2027-11-03,906,"Homenick, Ruecker and Wolff",661283.89,FXForward
+STN/CUP,56.30,2030-08-18,907,Hackett - Wuckert,247338.62,FXForward
+KZT/VUV,99.58,2029-09-21,908,"Okuneva, Dietrich and Leffler",105049.13,FXForward
+NGN/STN,60.50,2025-12-13,909,Bogan - Terry,8694.96,FXForward
+GHS/IQD,12.63,2021-12-13,910,Bailey - Emard,362517.35,FXForward
+KES/BGN,45.90,2028-09-03,911,"Hamill, Yost and Connelly",698133.95,FXForward
+XDR/XBA,98.20,2029-06-28,912,"Lakin, Davis and Monahan",609177.85,FXForward
+XCD/MWK,37.47,2029-02-15,913,Wolf Group,645176.06,FXForward
+KZT/GHS,6.99,2025-11-29,914,Cronin - Heidenreich,570472.18,FXForward
+CAD/XPD,0.73,2025-06-21,915,Conn Group,855408.22,FXForward
+VEF/TRY,9.88,2024-06-22,916,Mills Inc,423497.07,FXForward
+GEL/HTG,39.92,2025-07-29,917,Kohler - Grant,151422.35,FXForward
+CNY/MMK,22.31,2022-06-02,918,"Von, Bernier and Waelchi",110343.61,FXForward
+BWP/RSD,14.54,2030-12-23,919,Kuhic Group,18369.00,FXForward
+XPF/XDR,53.84,2021-11-25,920,Hintz - Halvorson,319319.24,FXForward
+XCD/CUP,78.79,2028-09-08,921,Dickens Group,997177.61,FXForward
+BHD/GTQ,10.44,2022-01-16,922,Borer - Fay,871594.38,FXForward
+GTQ/GMD,25.39,2029-03-11,923,Hahn LLC,316987.03,FXForward
+BHD/BOB,81.44,2031-03-05,924,Deckow Group,962112.48,FXForward
+MNT/DZD,19.30,2030-12-17,925,Stokes - Block,976909.22,FXForward
+GBP/XAF,6.33,2023-12-30,926,"Beatty, Mante and Bashirian",446378.00,FXForward
+DOP/STN,73.27,2030-08-30,927,Gutkowski LLC,223815.05,FXForward
+UAH/PYG,34.33,2024-01-21,928,Steuber LLC,276399.94,FXForward
+BWP/MOP,79.13,2022-06-28,929,Hayes Inc,228278.88,FXForward
+HUF/VUV,30.33,2029-09-27,930,"Mraz, Gislason and Reynolds",217065.79,FXForward
+GTQ/BRL,34.59,2021-09-16,931,"Spencer, Schoen and Daniel",763686.48,FXForward
+WST/JMD,22.36,2028-12-01,932,Hilpert and Sons,689668.87,FXForward
+CAD/SCR,51.08,2026-07-05,933,Watsica LLC,835155.99,FXForward
+SGD/VND,98.80,2025-08-13,934,Mills - Kuhic,795.46,FXForward
+BND/LRD,3.01,2022-06-15,935,Cole - Schumm,537266.66,FXForward
+AWG/STN,87.05,2026-05-21,936,"Bogisich, Durgan and Jones",660729.71,FXForward
+AFN/MUR,13.69,2024-04-03,937,Conn - Watsica,650121.38,FXForward
+HUF/HKD,46.91,2025-02-14,938,Gottlieb - Quigley,626645.41,FXForward
+RWF/QAR,72.78,2030-05-03,939,Gerhold LLC,576082.91,FXForward
+BIF/VND,43.62,2029-11-03,940,Wilderman - Bednar,493743.90,FXForward
+AZN/TJS,42.35,2027-02-15,941,Kulas - Gislason,723823.36,FXForward
+LVL/MOP,76.50,2028-09-13,942,"Flatley, King and Dooley",322128.44,FXForward
+GMD/TZS,79.42,2025-05-25,943,Nader Group,9717.76,FXForward
+PKR/CZK,79.43,2029-09-21,944,Bruen Inc,495702.09,FXForward
+HNL/ERN,83.37,2022-11-11,945,"Anderson, Stehr and Beer",745350.42,FXForward
+AWG/KGS,29.02,2028-11-01,946,"Kilback, Emard and Lehner",581671.04,FXForward
+HKD/RON,46.95,2024-06-10,947,Fahey LLC,844307.91,FXForward
+ARS/ARS,65.18,2024-11-13,948,Ortiz and Sons,86720.57,FXForward
+ZWL/SDG,38.92,2030-11-18,949,Kreiger - Paucek,706944.14,FXForward
+KYD/BAM,64.01,2023-05-10,950,"Jacobi, Hodkiewicz and Mayert",880829.36,FXForward
+SAR/CUP,58.85,2025-08-12,951,"Crist, Mante and Donnelly",9925.91,FXForward
+VND/KES,56.33,2023-01-09,952,Mayer and Sons,69605.45,FXForward
+SVC/HTG,83.66,2028-03-02,953,Marquardt LLC,583343.72,FXForward
+MYR/NZD,72.75,2030-02-10,954,"Walker, Greenholt and Toy",433321.82,FXForward
+KZT/TMT,50.14,2022-06-27,955,Tillman Inc,158969.37,FXForward
+TMT/MOP,96.95,2021-06-17,956,Jaskolski - Schulist,491869.91,FXForward
+BYR/TWD,73.20,2026-05-31,957,"Harvey, Kuhn and Upton",622170.51,FXForward
+ZWL/SHP,96.89,2028-09-08,958,Runte Group,698134.96,FXForward
+ALL/PYG,78.73,2023-08-09,959,Ratke LLC,480053.86,FXForward
+CVE/DJF,38.46,2024-07-14,960,Dietrich - Weber,23032.41,FXForward
+FJD/ALL,6.82,2024-10-24,961,"Reilly, Fisher and Carroll",819058.24,FXForward
+KHR/MXN,67.70,2029-09-30,962,Kessler - Armstrong,611557.85,FXForward
+SBD/RUB,70.29,2028-01-31,963,"Mertz, Senger and Kihn",535839.82,FXForward
+GYD/TWD,38.46,2026-12-20,964,Weber Group,709054.60,FXForward
+XDR/SBD,45.79,2022-08-03,965,"Goodwin, Kuhn and Stehr",919640.54,FXForward
+AUD/PGK,25.76,2023-01-31,966,Emmerich - Russel,618792.58,FXForward
+HTG/AOA,56.11,2025-06-08,967,Moore - MacGyver,879908.24,FXForward
+PKR/HRK,62.69,2027-08-13,968,Brakus Inc,189145.07,FXForward
+ZMK/UGX,66.64,2022-07-27,969,Metz and Sons,188458.64,FXForward
+BAM/BRL,30.58,2027-07-08,970,"Jaskolski, Harber and Koepp",931626.12,FXForward
+RWF/LTL,24.37,2030-07-30,971,Swift - Douglas,824266.87,FXForward
+FKP/LTL,3.43,2027-03-13,972,Satterfield - Shields,617268.15,FXForward
+BBD/CUP,60.81,2030-10-01,973,Marvin and Sons,337473.55,FXForward
+BMD/LRD,8.15,2031-03-12,974,Tremblay - Waters,700048.62,FXForward
+TTD/ILS,11.22,2021-10-15,975,"Mante, Brown and Klocko",426042.04,FXForward
+MDL/SEK,92.07,2024-04-02,976,Lueilwitz Inc,839000.26,FXForward
+MUR/HUF,26.66,2023-11-12,977,"Schiller, Kuhic and O'Reilly",968422.20,FXForward
+UAH/XPT,69.72,2029-09-06,978,Schiller - Lueilwitz,543746.25,FXForward
+HRK/DKK,33.57,2024-03-10,979,"Prohaska, Hirthe and Mayert",163627.54,FXForward
+CRC/AFN,40.48,2023-07-21,980,"Nader, Lueilwitz and Breitenberg",924403.10,FXForward
+SZL/CUC,16.98,2025-06-20,981,"Mertz, Hane and Schoen",15184.33,FXForward
+NOK/ILS,0.09,2027-12-20,982,Macejkovic - Labadie,431611.39,FXForward
+LAK/FKP,32.91,2028-02-05,983,Lockman LLC,709799.79,FXForward
+OMR/MRO,13.89,2027-05-06,984,"Rath, Ratke and Corwin",466132.63,FXForward
+RWF/NZD,38.77,2031-03-28,985,Bradtke LLC,36645.08,FXForward
+ARS/CVE,10.50,2023-11-17,986,"O'Conner, Sanford and Sawayn",376866.22,FXForward
+EEK/HNL,99.55,2022-07-26,987,Kohler LLC,515221.26,FXForward
+XPF/XPF,1.73,2024-12-17,988,Bednar and Sons,19624.17,FXForward
+HNL/XOF,32.99,2028-06-17,989,"Harber, Gerhold and Kuhlman",630187.44,FXForward
+BTN/RSD,51.75,2021-10-03,990,Mraz - Lueilwitz,895651.68,FXForward
+BIF/ARS,77.49,2026-06-25,991,Klein Inc,451789.80,FXForward
+YER/SBD,75.91,2025-06-25,992,"Johns, Lueilwitz and Vandervort",974179.57,FXForward
+PEN/UGX,52.73,2024-11-15,993,Quigley - Weimann,617716.95,FXForward
+XBB/IRR,95.92,2031-01-16,994,"Pfeffer, Quigley and Kihn",230975.83,FXForward
+GIP/LRD,96.92,2028-07-02,995,"Kuphal, Weimann and Volkman",738075.89,FXForward
+XCD/TND,47.76,2029-06-23,996,"Howe, Johnston and Robel",577163.82,FXForward
+MUR/BMD,29.01,2024-10-09,997,"Mayert, Keebler and McClure",619057.58,FXForward
+COP/XPF,100.00,2023-07-15,998,Blanda LLC,511420.04,FXForward
+KGS/KZT,64.85,2030-05-17,999,Schuppe LLC,811557.32,FXForward
+TMT/PLN,75.33,2022-03-01,1000,"Conroy, Wehner and Beer",111548.90,FXForward
+XAF/JMD,81.98,2025-10-12,1001,Homenick - Lockman,161432.30,FXForward
+DKK/LBP,74.19,2024-11-02,1002,"Jerde, Trantow and Bauch",402596.87,FXForward
+BSD/TJS,67.34,2028-04-18,1003,"Wolf, Wiza and Abshire",551495.76,FXForward
+GEL/KMF,92.59,2025-07-21,1004,Crist - Feest,235756.27,FXForward
+KMF/RWF,36.35,2025-12-28,1005,"Marks, Kling and Berge",320422.24,FXForward
+XFU/LKR,31.53,2028-11-16,1006,Romaguera Group,516864.15,FXForward
+VND/FJD,76.73,2026-03-07,1007,Pacocha Group,80172.48,FXForward
+SDG/BYR,46.79,2022-06-15,1008,Wyman LLC,215220.83,FXForward
+JPY/MUR,28.98,2027-09-23,1009,"Kling, Treutel and Green",291723.97,FXForward
+CUP/LRD,68.50,2030-06-23,1010,Blanda Inc,807080.51,FXForward
+HUF/XBA,30.94,2028-02-29,1011,Emmerich - Rolfson,146549.30,FXForward
+CDF/SVC,91.40,2024-03-02,1012,Connelly - Kihn,20496.43,FXForward
+LBP/RON,12.66,2026-03-13,1013,"Lindgren, Kreiger and Marvin",27006.47,FXForward
+RUB/ZWL,50.66,2031-02-01,1014,Satterfield - Dibbert,742651.57,FXForward
+YER/PGK,55.80,2027-03-05,1015,Feeney Group,716048.45,FXForward
+FKP/LYD,32.38,2022-11-30,1016,Raynor - Gerlach,103824.85,FXForward
+XAU/ALL,55.16,2027-07-22,1017,"Bednar, Nolan and Abbott",110559.66,FXForward
+XPD/XAU,14.30,2030-09-03,1018,Upton - Buckridge,123429.99,FXForward
+MXN/TMT,90.72,2030-06-25,1019,Stark LLC,999987.25,FXForward
+DOP/XPD,45.62,2021-07-20,1020,"Kassulke, Rohan and Jakubowski",22991.09,FXForward
+VUV/KES,22.06,2024-12-04,1021,Muller and Sons,505445.48,FXForward
+LAK/PYG,82.42,2022-06-21,1022,Hahn LLC,442159.53,FXForward
+CLP/CNY,27.34,2028-08-30,1023,Farrell LLC,797643.63,FXForward
+CAD/NPR,43.68,2030-12-10,1024,Casper and Sons,263327.61,FXForward
+TND/KPW,17.36,2025-09-27,1025,Boyle - Weimann,268376.21,FXForward
+CUP/LKR,52.35,2028-12-16,1026,Nienow and Sons,470735.67,FXForward
+PYG/VND,83.70,2024-10-25,1027,"Green, Stiedemann and Zemlak",300098.11,FXForward
+XPT/DKK,48.84,2030-01-19,1028,Jones - Rodriguez,941054.83,FXForward
+HNL/SLL,5.40,2023-04-19,1029,"Sawayn, Hickle and Reichel",555959.69,FXForward
+MVR/NZD,59.96,2028-04-20,1030,Ledner - Pfeffer,802723.30,FXForward
+QAR/AED,23.45,2022-04-28,1031,Stiedemann - Rodriguez,444428.79,FXForward
+IDR/KHR,99.14,2027-04-05,1032,"D'Amore, Altenwerth and Keebler",502792.72,FXForward
+BTN/XTS,12.16,2030-09-07,1033,Powlowski - Crona,46376.28,FXForward
+MUR/BAM,81.51,2022-10-03,1034,Cummerata and Sons,149388.15,FXForward
+KPW/BMD,78.14,2022-08-11,1035,Mosciski and Sons,742385.58,FXForward
+PEN/SBD,14.37,2022-04-28,1036,Nikolaus - Crona,725228.93,FXForward
+PYG/YER,89.77,2027-07-18,1037,"DuBuque, Cole and Volkman",441654.87,FXForward
+XPF/BTN,10.72,2023-03-31,1038,Maggio - Skiles,894179.55,FXForward
+ETB/CNY,32.58,2030-06-03,1039,Gibson LLC,63564.06,FXForward
+JOD/GYD,40.36,2021-07-13,1040,Keebler LLC,803721.46,FXForward
+XBB/SCR,58.74,2027-10-13,1041,Kling and Sons,932656.61,FXForward
+XPD/EGP,66.50,2024-01-06,1042,Carroll - Walsh,532636.88,FXForward
+KGS/ARS,44.72,2021-09-20,1043,Lemke and Sons,435198.61,FXForward
+BIF/DZD,19.30,2022-11-26,1044,"Abbott, Johns and Fahey",241272.98,FXForward
+GIP/MZN,67.43,2022-02-13,1045,"O'Kon, Kutch and Balistreri",174615.07,FXForward
+YER/TND,76.36,2025-11-17,1046,Cole - Fisher,793238.00,FXForward
+CVE/AFN,30.00,2022-07-28,1047,"Streich, Witting and Wisozk",609190.83,FXForward
+XAU/SLL,37.25,2022-08-28,1048,"Green, Hettinger and Jaskolski",366342.49,FXForward
+EGP/SYP,76.08,2024-08-14,1049,Cummerata - Franecki,874922.77,FXForward
+ARS/PEN,46.15,2029-02-18,1050,Halvorson - Schmitt,12565.68,FXForward
+CZK/KZT,49.38,2028-07-23,1051,Hettinger - Fadel,191633.78,FXForward
+RSD/EGP,24.10,2026-05-22,1052,Huel and Sons,312118.34,FXForward
+DKK/XAF,62.77,2023-05-19,1053,Simonis - Ebert,598352.15,FXForward
+LYD/BRL,86.33,2027-12-14,1054,Gottlieb Group,689851.73,FXForward
+CRC/XFU,12.48,2028-01-07,1055,"Mueller, Balistreri and Legros",509402.25,FXForward
+KYD/PYG,19.85,2022-01-19,1056,Shields - Sporer,472738.33,FXForward
+VND/MYR,46.04,2028-08-24,1057,McLaughlin Inc,415050.99,FXForward
+TRY/DZD,93.31,2026-08-07,1058,Wyman Group,691817.54,FXForward
+SEK/ZWL,23.97,2030-04-06,1059,Jenkins - Bechtelar,210452.98,FXForward
+TMT/SLL,75.89,2027-07-04,1060,Walter LLC,52100.22,FXForward
+PYG/ETB,3.76,2021-10-29,1061,Morar - DuBuque,522763.96,FXForward
+AFN/KPW,86.76,2024-03-22,1062,Schimmel - Kunze,197183.13,FXForward
+NAD/INR,29.32,2024-10-27,1063,"Halvorson, Stamm and Bashirian",605264.64,FXForward
+KES/XPF,27.92,2023-07-21,1064,Harris Group,878251.00,FXForward
+KES/WST,37.52,2025-01-14,1065,Cassin Inc,21750.03,FXForward
+XAG/PLN,5.92,2025-04-23,1066,"Nolan, Waelchi and Labadie",42697.44,FXForward
+ALL/MZN,25.31,2030-06-05,1067,Koss Group,721401.19,FXForward
+COP/CHF,84.11,2023-06-17,1068,Hegmann Group,101333.77,FXForward
+LTL/KWD,47.23,2027-12-10,1069,"Prosacco, Hackett and Pagac",270498.89,FXForward
+GTQ/KHR,67.90,2030-01-27,1070,Heathcote - Kiehn,788747.56,FXForward
+MAD/GIP,54.82,2030-08-30,1071,Fritsch - Kuhic,391503.01,FXForward
+GBP/UAH,48.66,2022-02-03,1072,Fisher LLC,455820.39,FXForward
+IRR/BYR,67.38,2021-07-24,1073,Bernier Inc,344478.24,FXForward
+TTD/BWP,86.12,2030-07-07,1074,Beer - Jast,233924.90,FXForward
+ILS/UAH,46.85,2025-06-10,1075,Fadel LLC,907018.14,FXForward
+ALL/JMD,78.09,2029-11-15,1076,"Roberts, Crooks and Frami",912753.06,FXForward
+HRK/LYD,34.72,2027-01-26,1077,Kutch - Fisher,239219.60,FXForward
+GYD/BWP,98.52,2025-02-01,1078,Wolf - King,880421.56,FXForward
+MZN/SGD,46.43,2027-04-28,1079,Emard - Beahan,128502.44,FXForward
+BRL/JOD,66.59,2027-08-01,1080,"McDermott, Nienow and Wisozk",429654.67,FXForward
+RUB/XBB,72.75,2024-10-17,1081,Kirlin - Muller,622202.70,FXForward
+MNT/KWD,61.80,2023-01-24,1082,Treutel Group,22475.63,FXForward
+GEL/PHP,3.57,2027-09-03,1083,"Haag, Schmidt and Heathcote",652561.18,FXForward
+CDF/HUF,57.70,2029-02-06,1084,Rohan - Stiedemann,378387.86,FXForward
+SVC/XDR,30.94,2024-07-05,1085,Wehner LLC,361411.33,FXForward
+EGP/BZD,2.03,2029-03-24,1086,"Friesen, Senger and Morissette",579627.51,FXForward
+ZAR/BMD,80.92,2027-03-08,1087,Schowalter - Metz,322832.56,FXForward
+CUP/MUR,27.14,2023-09-22,1088,"Effertz, Crona and Strosin",971083.03,FXForward
+BOB/IRR,49.18,2021-07-11,1089,Lakin Group,814875.56,FXForward
+EEK/NZD,83.78,2027-02-27,1090,"Barrows, Schultz and Johnston",57542.61,FXForward
+GEL/USD,86.60,2029-01-12,1091,Lind - Wuckert,457487.26,FXForward
+BBD/GBP,34.45,2024-09-03,1092,"Rath, Cremin and Klein",807948.52,FXForward
+KMF/BOB,30.04,2022-04-28,1093,"Nicolas, Blick and Wolff",454723.13,FXForward
+LSL/MUR,3.15,2025-02-26,1094,Zemlak Inc,927689.98,FXForward
+AED/RON,7.68,2021-09-19,1095,Armstrong - Greenholt,784768.55,FXForward
+BBD/XTS,54.42,2022-01-20,1096,Ortiz - Hayes,570888.23,FXForward
+BWP/BOB,87.32,2022-11-15,1097,"Gottlieb, Wiza and Rowe",607808.70,FXForward
+UYU/SLL,60.36,2025-07-02,1098,Runte Group,605057.29,FXForward
+MUR/XPF,96.69,2021-04-23,1099,Konopelski - Gerhold,52414.55,FXForward
+ARS/BOB,44.92,2022-03-26,1100,"Carroll, Rosenbaum and Runolfsson",729605.08,FXForward

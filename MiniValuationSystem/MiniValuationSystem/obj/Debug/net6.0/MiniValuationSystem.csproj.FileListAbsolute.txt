@@ -1,0 +1,17 @@
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\bin\Debug\net6.0\MiniValuationSystem.exe
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\bin\Debug\net6.0\MiniValuationSystem.deps.json
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\bin\Debug\net6.0\MiniValuationSystem.runtimeconfig.json
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\bin\Debug\net6.0\MiniValuationSystem.dll
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\bin\Debug\net6.0\MiniValuationSystem.pdb
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\MiniValuationSystem.csproj.AssemblyReference.cache
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\MiniValuationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\MiniValuationSystem.AssemblyInfoInputs.cache
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\MiniValuationSystem.AssemblyInfo.cs
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\MiniValuationSystem.csproj.CoreCompileInputs.cache
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\MiniValuationSystem.csproj.CopyComplete
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\MiniValuationSystem.dll
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\refint\MiniValuationSystem.dll
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\MiniValuationSystem.pdb
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\MiniValuationSystem.genruntimeconfig.cache
+C:\Users\akash\source\repos\MiniValuationSystem\MiniValuationSystem\obj\Debug\net6.0\ref\MiniValuationSystem.dll

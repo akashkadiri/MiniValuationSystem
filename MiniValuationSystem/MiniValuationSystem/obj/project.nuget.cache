@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWsIIUTEZA+iASt06reywNcXZm6LSZ+UxdVUJtt1WEzaTuMjUaEr9akuD65QWbQnVpg8q2xSDWqZZyXdEItzBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\akash\\source\\repos\\MiniValuationSystem\\MiniValuationSystem\\MiniValuationSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akash\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

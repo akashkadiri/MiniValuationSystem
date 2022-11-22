@@ -1,0 +1,1001 @@
+Ticker,TradeId,Counterparty,Quantity,TradeType
+PCKUK,3101,Leffler Inc,628000.04,Stock
+7AHTK,3102,"Gutkowski, Romaguera and O'Keefe",108327.78,Stock
+GHBOE,3103,"Willms, Kutch and Hamill",798609.35,Stock
+ZX4PD,3104,"VonRueden, Renner and Grant",704530.67,Stock
+GMO9K,3105,Frami - Rodriguez,706886.09,Stock
+VMYM7,3106,Beier - Graham,828528.70,Stock
+WGNXK,3107,Cruickshank Inc,40882.12,Stock
+6RG4N,3108,Wiegand - Cole,258911.50,Stock
+S7QAC,3109,Schimmel Group,164591.21,Stock
+RCQTK,3110,Borer - Stracke,661865.89,Stock
+1I27B,3111,Jast and Sons,288322.97,Stock
+DQZQU,3112,Champlin - Towne,523090.77,Stock
+AL40U,3113,Conn - Hilpert,21740.06,Stock
+C7BPA,3114,"Schneider, Donnelly and Schimmel",526680.65,Stock
+VA5G4,3115,"Rodriguez, Hauck and Bradtke",583980.18,Stock
+DO644,3116,"Cartwright, Pfeffer and Auer",493174.75,Stock
+E4NLJ,3117,"D'Amore, Bartell and Ondricka",355938.34,Stock
+S301S,3118,Bernhard Inc,674578.76,Stock
+W5L46,3119,Zemlak and Sons,665505.65,Stock
+6LJRP,3120,Corkery LLC,17106.25,Stock
+JWSN3,3121,"Rodriguez, Davis and Runolfsdottir",655616.48,Stock
+NEZ4A,3122,Effertz and Sons,362731.19,Stock
+AXCGV,3123,Christiansen - Lebsack,770553.51,Stock
+1DCAL,3124,Tillman and Sons,122549.99,Stock
+3HH3Y,3125,Hauck - Tremblay,755841.10,Stock
+H98L5,3126,"Schaden, Bailey and Mosciski",200086.13,Stock
+1HROW,3127,"Trantow, Schuppe and Hackett",101376.24,Stock
+SMSER,3128,Abshire Inc,350159.81,Stock
+ZFOUO,3129,Bailey and Sons,185007.74,Stock
+6BPJ1,3130,"Weber, Streich and Schmidt",801484.94,Stock
+7SWRO,3131,"Reichel, Moore and Rippin",804367.83,Stock
+K4OPU,3132,"McGlynn, Prohaska and Stiedemann",498529.09,Stock
+Q0D7T,3133,"Kemmer, Dibbert and Schowalter",78501.55,Stock
+L1EAH,3134,Block Inc,754973.82,Stock
+U380A,3135,"Daugherty, Lind and Turner",174258.40,Stock
+P5DJS,3136,Bergnaum LLC,3321.77,Stock
+PXNQI,3137,Beer - Denesik,435512.77,Stock
+7QNBJ,3138,"Funk, Konopelski and Corkery",839972.50,Stock
+02YRE,3139,Wilderman Group,511792.46,Stock
+ILMFS,3140,Heidenreich LLC,242211.94,Stock
+KARU3,3141,"Spencer, Windler and Lemke",108815.32,Stock
+TTIUO,3142,Johnston and Sons,50211.21,Stock
+68O6C,3143,Cummings - Hilpert,732597.96,Stock
+SYXHK,3144,Wintheiser LLC,211402.90,Stock
+98VJZ,3145,Sporer - Jenkins,222268.81,Stock
+RYVMD,3146,"Gulgowski, Runte and Jast",983656.62,Stock
+EXQVK,3147,Schaden and Sons,436347.60,Stock
+C9109,3148,Nader and Sons,130311.72,Stock
+N9VVK,3149,Upton Inc,861051.08,Stock
+WBJDS,3150,Wunsch - Ryan,259385.67,Stock
+IDBIC,3151,Jaskolski Inc,282012.05,Stock
+YROJP,3152,Cummings - Kemmer,143394.54,Stock
+KIC5V,3153,Franecki Inc,32096.13,Stock
+YHUL8,3154,"Roob, Reilly and Zulauf",581890.81,Stock
+4WDP5,3155,Huels Group,545338.99,Stock
+CMB4M,3156,Bartoletti - Aufderhar,573344.52,Stock
+DHJRM,3157,Smith LLC,922210.41,Stock
+35FIB,3158,McGlynn - Kshlerin,656987.52,Stock
+6S7OU,3159,Prohaska - Bahringer,121958.80,Stock
+TUORQ,3160,"Davis, Hilll and Howell",264098.12,Stock
+CAW4O,3161,Bailey and Sons,10233.60,Stock
+AVFM1,3162,"Walsh, Stoltenberg and Collins",846744.14,Stock
+MRL93,3163,Price - Quitzon,681292.52,Stock
+EOEA5,3164,O'Reilly Group,424868.75,Stock
+JVXW1,3165,"Ortiz, Smith and Grimes",678478.45,Stock
+8N41E,3166,Botsford - Hyatt,381833.59,Stock
+1SS0Z,3167,Parker - Feil,768975.67,Stock
+0PQX7,3168,Konopelski - King,456057.99,Stock
+OVJQ0,3169,Aufderhar - Cruickshank,794083.77,Stock
+MZYGG,3170,"Grady, Marks and Sauer",279774.25,Stock
+WFFL2,3171,"Schowalter, Kunze and Swift",543177.24,Stock
+FR18J,3172,Pagac LLC,293177.16,Stock
+VPFP6,3173,"Hettinger, Fay and Greenfelder",794630.56,Stock
+1EU5M,3174,"Krajcik, Bechtelar and Gerhold",287662.20,Stock
+W8N9C,3175,"Gleichner, Kessler and Welch",673913.85,Stock
+H3OIP,3176,Mohr - Rice,398921.84,Stock
+SL1FC,3177,"Senger, Kovacek and Quigley",248743.89,Stock
+MNPXA,3178,Beahan Group,886137.26,Stock
+5DO7Q,3179,Torp - Murray,76130.72,Stock
+V55SF,3180,Sauer - Dietrich,372358.30,Stock
+VTA0A,3181,Dicki - Crist,85224.27,Stock
+R6DWT,3182,Reichert - Brown,749404.81,Stock
+KLUEN,3183,Rogahn - Hand,325587.09,Stock
+QT75Q,3184,Terry Inc,756842.53,Stock
+S432H,3185,Lemke Inc,805612.97,Stock
+ZZCS1,3186,Turner - Barrows,26148.52,Stock
+8H645,3187,Feil LLC,568561.14,Stock
+JLF9D,3188,Stanton Group,284665.36,Stock
+I37HM,3189,"Macejkovic, Windler and Douglas",236393.53,Stock
+YR3X4,3190,Toy Inc,420619.89,Stock
+NYY7H,3191,Grimes - Lindgren,620120.88,Stock
+QLJ83,3192,Hintz - Kerluke,590109.36,Stock
+ZK09X,3193,"Zulauf, Bradtke and Koelpin",16476.09,Stock
+OBP29,3194,Barrows - Lang,420753.38,Stock
+MV46J,3195,"Halvorson, Feest and Gleichner",294513.59,Stock
+O7X03,3196,Mertz Group,732559.87,Stock
+P1SGU,3197,Lubowitz Inc,641875.89,Stock
+AAROQ,3198,"Runolfsson, Goodwin and Barton",526609.44,Stock
+G3BJA,3199,"Sporer, Connelly and Terry",395130.35,Stock
+SPWOI,3200,"Emmerich, Roberts and Gulgowski",593638.84,Stock
+5E942,3201,Labadie Inc,40072.58,Stock
+6794O,3202,Kirlin - VonRueden,531240.60,Stock
+860Q0,3203,Dare - Moore,723893.95,Stock
+35IAP,3204,"Kiehn, Rempel and Marvin",391492.35,Stock
+Z9XUW,3205,Ratke Group,199908.62,Stock
+18HWH,3206,"Lubowitz, Boehm and Hauck",660180.25,Stock
+DAOC1,3207,Wolff Inc,427740.89,Stock
+WK1YO,3208,Schuster and Sons,677362.84,Stock
+41HW3,3209,"Nikolaus, Koss and Gutmann",323573.24,Stock
+801P2,3210,Littel Inc,598715.96,Stock
+WWS2A,3211,Mertz Group,287756.45,Stock
+KI90Y,3212,"D'Amore, Satterfield and Mueller",69357.97,Stock
+EK9HW,3213,Vandervort - Hodkiewicz,914520.82,Stock
+UYO22,3214,Conroy LLC,869337.15,Stock
+1QLQB,3215,Lueilwitz - Huel,534025.41,Stock
+YZ326,3216,Kozey - McClure,77186.03,Stock
+FVU57,3217,"Parker, Leannon and Quigley",643626.02,Stock
+HGXHK,3218,Weissnat LLC,392153.15,Stock
+O9T0B,3219,Swift LLC,314245.39,Stock
+RSREJ,3220,Daniel LLC,782978.62,Stock
+6KDFD,3221,Upton - Wisozk,650638.95,Stock
+IIYA9,3222,"Block, Block and Mraz",47189.95,Stock
+EKPZK,3223,Stark - Kirlin,817142.27,Stock
+3W9KL,3224,Cummings - Strosin,622266.99,Stock
+8V1X8,3225,Predovic - Beatty,931020.28,Stock
+THH0O,3226,Champlin - Collins,260215.96,Stock
+GLTW7,3227,Bosco LLC,94011.81,Stock
+YXHL8,3228,"Koch, Witting and Quigley",771951.53,Stock
+GB6UF,3229,Moen - Mayer,772685.42,Stock
+372G1,3230,Heaney and Sons,127363.17,Stock
+CN4H9,3231,Fay - Klocko,105193.75,Stock
+W9L3M,3232,"Hermiston, Daugherty and Harris",351560.76,Stock
+QENVJ,3233,Botsford Group,282246.49,Stock
+HW3DR,3234,Towne and Sons,692488.94,Stock
+Z1DI8,3235,Gibson Group,639421.93,Stock
+4G5XL,3236,"Yundt, Koss and Stiedemann",496184.95,Stock
+L5DCN,3237,"Reichel, Price and Prohaska",783615.50,Stock
+9TPO3,3238,"Kemmer, Fritsch and Leuschke",498997.97,Stock
+V2HEC,3239,"Von, Fay and Cruickshank",716000.11,Stock
+F1MK4,3240,Harvey Group,508334.08,Stock
+UJHQX,3241,Spinka LLC,30918.32,Stock
+HUU1H,3242,Fisher - Haag,756687.18,Stock
+OZZFC,3243,Wyman - Treutel,522058.19,Stock
+M9KM9,3244,Roberts - Buckridge,449251.46,Stock
+75445,3245,Torphy and Sons,613012.17,Stock
+NEK3K,3246,Kreiger Group,127954.65,Stock
+1E60Z,3247,Ledner Inc,655982.13,Stock
+UKQ53,3248,"Vandervort, Morar and Bauch",187651.86,Stock
+UXYHC,3249,"Ruecker, Rohan and Hoppe",561103.88,Stock
+OB33F,3250,Reinger Group,529198.37,Stock
+B7J0A,3251,"Wiza, Johnston and Donnelly",153139.09,Stock
+G6TH5,3252,Lueilwitz Group,246055.88,Stock
+POW30,3253,Schultz - Bruen,459036.02,Stock
+HAB4I,3254,Herman Group,728958.40,Stock
+AXNHS,3255,Metz - Beier,356603.78,Stock
+VUYHM,3256,Kshlerin and Sons,355941.40,Stock
+86GNF,3257,"Larkin, Reichert and Larson",237193.84,Stock
+BO8W2,3258,Bernier LLC,939353.04,Stock
+8WRLK,3259,Langworth Inc,794238.42,Stock
+OLMS1,3260,"Kreiger, Adams and Rowe",997905.59,Stock
+986PJ,3261,Simonis - Dach,849164.63,Stock
+YW84J,3262,Cartwright - Pfannerstill,628503.41,Stock
+LQ6FJ,3263,"Kuphal, Muller and Kub",621880.06,Stock
+V7J92,3264,Weber and Sons,700110.27,Stock
+672G1,3265,Upton - Maggio,44078.74,Stock
+1WAFV,3266,"Beahan, Strosin and Runolfsdottir",562388.80,Stock
+SNNM6,3267,Macejkovic Inc,98424.89,Stock
+M5GM5,3268,Schmeler - Keeling,429436.07,Stock
+5OBDN,3269,Kling - Gorczany,552808.56,Stock
+LRN1I,3270,Hintz and Sons,802165.21,Stock
+ILV18,3271,Schowalter - Ruecker,397640.49,Stock
+3EQTZ,3272,Mosciski - Feeney,609602.62,Stock
+RFZC8,3273,O'Keefe - Jakubowski,443738.79,Stock
+LMWTE,3274,"Mraz, Dickinson and Okuneva",777585.33,Stock
+4FWRF,3275,Walsh LLC,668678.96,Stock
+S1D43,3276,"Gislason, Tromp and Beier",774272.71,Stock
+C0E1R,3277,Hauck and Sons,190344.47,Stock
+CR1XZ,3278,"Nicolas, Wolf and Dietrich",589031.77,Stock
+JMZZK,3279,Adams Group,662865.66,Stock
+ITS2N,3280,Stiedemann - Reinger,206730.22,Stock
+5XSQ2,3281,"Harber, O'Kon and Quitzon",382555.06,Stock
+4ET36,3282,Ratke Inc,754088.64,Stock
+UMW4F,3283,"Stracke, Lueilwitz and Hodkiewicz",38894.64,Stock
+4BLBK,3284,Hodkiewicz - Schoen,289850.86,Stock
+WWNUF,3285,Predovic - Roberts,754355.27,Stock
+QLDR6,3286,Mertz Group,686106.49,Stock
+SD9OI,3287,"Mosciski, Stiedemann and Rogahn",256325.45,Stock
+29GHX,3288,Stroman - Kihn,540589.38,Stock
+07SIM,3289,Nitzsche and Sons,377674.55,Stock
+4NPPV,3290,"Nolan, Emard and Upton",355569.75,Stock
+75FJN,3291,Weimann - Howell,646474.40,Stock
+3GOJH,3292,Rempel and Sons,273477.03,Stock
+AQH1A,3293,Stark LLC,460266.29,Stock
+DJK1Z,3294,Langworth - Haley,899208.05,Stock
+N4GWC,3295,"Ziemann, Fritsch and Ernser",585760.14,Stock
+L5GVC,3296,Brown - Koch,687911.88,Stock
+VW1C5,3297,"O'Keefe, Oberbrunner and Corwin",170808.87,Stock
+GYJ80,3298,Tillman - Pollich,53953.28,Stock
+U5O62,3299,Stroman and Sons,821514.62,Stock
+82C2U,3300,"Reinger, Ritchie and Tremblay",678885.14,Stock
+SBJGO,3301,Herman LLC,624367.79,Stock
+XGLHN,3302,Abbott LLC,42220.71,Stock
+U7MFG,3303,"Schmidt, Abernathy and Kulas",688278.11,Stock
+VP5OL,3304,Kling Group,118954.33,Stock
+OZ422,3305,Leuschke LLC,313843.32,Stock
+EI9UL,3306,"Schowalter, King and Blick",762440.24,Stock
+W2982,3307,Sipes - Jast,170276.44,Stock
+084BH,3308,"Swift, Hayes and Satterfield",780364.66,Stock
+4XL04,3309,Kulas LLC,790764.47,Stock
+K0RUD,3310,"Marvin, Moore and McLaughlin",862564.01,Stock
+167C1,3311,Fritsch - Keebler,773625.00,Stock
+SI331,3312,"Berge, Lemke and Greenfelder",187846.23,Stock
+4JH9A,3313,Feil and Sons,40090.34,Stock
+ERP8V,3314,Emmerich - Sanford,264776.81,Stock
+KC25A,3315,"Larkin, Morissette and Ward",589683.11,Stock
+WPK4C,3316,Schmidt - Hauck,468524.52,Stock
+WXVTW,3317,Grimes Inc,552793.03,Stock
+MDLFC,3318,"Collins, Leuschke and Kuhn",555464.21,Stock
+D7UH5,3319,Prosacco - Paucek,69629.04,Stock
+C0LHY,3320,"Swaniawski, Luettgen and Sipes",626459.55,Stock
+90QX8,3321,"Abshire, Reichel and Runte",465627.69,Stock
+HMI8U,3322,"Bosco, Hammes and Graham",217259.74,Stock
+208AW,3323,Beier - Kiehn,729978.40,Stock
+MPCXX,3324,Lemke Inc,894485.29,Stock
+W8FNJ,3325,Schmitt and Sons,469479.60,Stock
+HDMMN,3326,Morissette Inc,722812.22,Stock
+0PUSP,3327,Zboncak - Prosacco,447700.57,Stock
+VKPBF,3328,Donnelly - Price,567351.58,Stock
+AEGYO,3329,Stroman - Cormier,204310.14,Stock
+Z2RX8,3330,"Jast, Barton and Pacocha",273848.00,Stock
+ISGUP,3331,"Sanford, Nicolas and Murray",108846.76,Stock
+4RHCP,3332,"McCullough, Bahringer and Dickens",947367.30,Stock
+2EOZX,3333,Wuckert Inc,31175.34,Stock
+JNV81,3334,"Kutch, Brakus and Muller",468596.67,Stock
+Y6DUQ,3335,"Langosh, Wilderman and Morar",269054.93,Stock
+8XSQL,3336,Ferry LLC,415343.79,Stock
+J57MY,3337,Rau - Sporer,796455.06,Stock
+IGO6C,3338,O'Hara - Gutkowski,243286.89,Stock
+0T9RG,3339,Sawayn - Bode,888385.44,Stock
+X9OBU,3340,"Pfannerstill, Hudson and Lehner",746272.79,Stock
+8T7FW,3341,"Johnston, Konopelski and Bergstrom",313443.75,Stock
+FXIOP,3342,"Brekke, Rippin and Bayer",596975.17,Stock
+9YK0W,3343,Lind Group,683332.44,Stock
+UHXWP,3344,Wolf - Stamm,133943.27,Stock
+URTYC,3345,"Ondricka, Daniel and Nader",834440.00,Stock
+MT6NS,3346,"Hammes, Wunsch and Rodriguez",5819.91,Stock
+1XVZW,3347,"Hettinger, Okuneva and Schroeder",291169.09,Stock
+R0JDP,3348,Padberg - Leffler,220996.48,Stock
+3LE8U,3349,"Watsica, Kirlin and Zulauf",222416.71,Stock
+4XE0D,3350,Bahringer - Gulgowski,269742.60,Stock
+U2R9S,3351,Schiller - Upton,882198.79,Stock
+HQUCD,3352,"Yundt, Zieme and Boehm",439727.22,Stock
+P1GV9,3353,Reichel - Quigley,645425.63,Stock
+061W0,3354,Jast - Gulgowski,350575.62,Stock
+TSM8U,3355,Mills Group,450452.79,Stock
+9K1KN,3356,McCullough - Shanahan,536323.17,Stock
+E6HUD,3357,Considine - Dooley,854123.43,Stock
+EKQSQ,3358,Nikolaus - Zboncak,913881.61,Stock
+0G60A,3359,Yost - Torphy,918835.05,Stock
+BFIER,3360,Strosin - Considine,716196.30,Stock
+ZE6LU,3361,"Dietrich, Ebert and Roob",953289.16,Stock
+GUMKR,3362,Davis - Gleason,812858.99,Stock
+W1Z8Q,3363,"Collins, Rice and Ortiz",364044.56,Stock
+SWLJN,3364,Lubowitz and Sons,998894.77,Stock
+VBI36,3365,Upton LLC,836393.46,Stock
+UROM2,3366,Pagac Group,689436.76,Stock
+Z5F9A,3367,Stamm - Stiedemann,906161.20,Stock
+VAYJU,3368,Deckow and Sons,898826.31,Stock
+USVXK,3369,Gutkowski Group,336844.35,Stock
+5U2OT,3370,"Nikolaus, Pollich and Mraz",313238.65,Stock
+L1DXP,3371,Veum and Sons,413455.03,Stock
+BXHB7,3372,Schumm LLC,734118.34,Stock
+2LJML,3373,Zboncak Inc,44148.24,Stock
+SM5FX,3374,Strosin - Hagenes,59368.32,Stock
+V5RQA,3375,"Torphy, Grant and Haag",479910.02,Stock
+MVPQ2,3376,"Hirthe, Prosacco and Shields",832490.28,Stock
+V1E31,3377,"Rosenbaum, Stokes and Wilderman",421212.68,Stock
+FWVI7,3378,"McGlynn, Treutel and Wuckert",640469.71,Stock
+8T1HF,3379,"Gusikowski, Stanton and Gleason",729188.19,Stock
+31CVM,3380,"Von, Jakubowski and Harvey",95330.60,Stock
+BHP6E,3381,"Rogahn, Osinski and Rau",323494.65,Stock
+JWL86,3382,"Abbott, Dibbert and Little",188778.78,Stock
+416KV,3383,Ankunding Group,677288.20,Stock
+WD5M4,3384,Jerde - McClure,1354.50,Stock
+3PWQV,3385,"Jast, Rosenbaum and Bogan",853728.12,Stock
+3PJST,3386,Lueilwitz Inc,436472.90,Stock
+UMZ50,3387,"McClure, Goodwin and Conn",915962.03,Stock
+RNTFZ,3388,Cronin Inc,914221.13,Stock
+BBEBD,3389,Smith Group,237984.63,Stock
+BMJO9,3390,"Kovacek, Gutmann and Hegmann",585321.11,Stock
+WFP3M,3391,"Fritsch, Ernser and Brown",555986.30,Stock
+KNZ0C,3392,Schaefer - Gulgowski,271247.23,Stock
+ZOPXK,3393,"Schuppe, Kutch and Kuvalis",255267.46,Stock
+LQXQF,3394,"Goyette, Ernser and Wunsch",542967.20,Stock
+PZ661,3395,Thompson - Mosciski,310515.60,Stock
+PGCQY,3396,"West, Hauck and Mraz",209854.06,Stock
+4DC6S,3397,Torp Inc,496068.56,Stock
+L0276,3398,"Pfannerstill, Stark and Prohaska",261203.29,Stock
+6MDN0,3399,"Goyette, Schowalter and Kutch",666247.45,Stock
+ZMJ5D,3400,Bosco Inc,977079.03,Stock
+DFCX8,3401,Walker - Hauck,794872.62,Stock
+85XOA,3402,Barrows Inc,637552.25,Stock
+0P6JN,3403,Lemke - Hand,497228.17,Stock
+1UOP9,3404,Swift - Reinger,647499.86,Stock
+B9DAM,3405,Kuhic - Kassulke,81067.20,Stock
+AB5M2,3406,"Murray, Spinka and Bosco",37083.17,Stock
+RW1IF,3407,"Volkman, Nienow and Muller",849248.60,Stock
+G7VA7,3408,"Herman, West and Lindgren",884204.49,Stock
+DWTCU,3409,Buckridge LLC,68372.90,Stock
+MPCUU,3410,Hauck - Treutel,243123.28,Stock
+VVNGO,3411,Hane - Johnson,211009.75,Stock
+FUEZV,3412,Durgan LLC,86625.84,Stock
+XJ723,3413,Marks and Sons,944817.91,Stock
+JMCAZ,3414,Brekke and Sons,825355.91,Stock
+W7I59,3415,"Stiedemann, Funk and Simonis",414475.66,Stock
+MU59L,3416,Turner - Beahan,840768.19,Stock
+SSKCD,3417,Howell - Stracke,4753.43,Stock
+4VL4M,3418,Padberg - Watsica,744325.98,Stock
+FEXQ6,3419,Crist - Heathcote,725368.80,Stock
+EDQOL,3420,Glover LLC,991728.89,Stock
+KU1GC,3421,"Stehr, Kovacek and Beahan",839514.37,Stock
+H7R39,3422,Ryan - Dare,232460.92,Stock
+LJ2OH,3423,"Wintheiser, Klein and Bernhard",51755.56,Stock
+AOA5C,3424,Mann Inc,454005.83,Stock
+YL4EU,3425,Runte Group,385810.90,Stock
+9HRMH,3426,Davis Group,633144.55,Stock
+5J6RL,3427,"Johnston, Kling and Grimes",502825.85,Stock
+1FSH1,3428,Treutel LLC,216011.75,Stock
+6O1IP,3429,Labadie - Konopelski,929665.81,Stock
+N7HQV,3430,Haag - Larkin,684197.84,Stock
+RTI3Y,3431,Gleason LLC,836222.93,Stock
+GZQ1Z,3432,Wintheiser - Robel,208129.04,Stock
+GNUJG,3433,Kuhn and Sons,604550.80,Stock
+PBJR7,3434,Nienow Inc,357169.18,Stock
+E3QJJ,3435,Roberts LLC,635310.61,Stock
+L769L,3436,"Kihn, Sporer and Larkin",945198.60,Stock
+8DFGP,3437,Schmeler - Beatty,986450.22,Stock
+ORFA8,3438,Friesen and Sons,662459.11,Stock
+4W3MK,3439,"Blanda, Deckow and Strosin",912522.00,Stock
+XDF9R,3440,"Nader, Collins and Leuschke",56108.08,Stock
+0FAIS,3441,Glover - Yundt,637187.70,Stock
+ZH6FJ,3442,Ritchie LLC,310018.58,Stock
+UR2ZP,3443,"Ward, Boyer and Considine",746746.05,Stock
+5JQE3,3444,Reichert - Hane,354956.39,Stock
+DBGU5,3445,Stamm - Kub,827482.57,Stock
+ITJCN,3446,Corwin Inc,880965.10,Stock
+XFK52,3447,Lebsack - Conn,876776.17,Stock
+23VPE,3448,"Hoppe, Hoppe and Runolfsson",254067.08,Stock
+0LRUO,3449,Renner Group,285096.04,Stock
+SVDWY,3450,DuBuque - Lang,818574.27,Stock
+9MGSJ,3451,"Ullrich, Bauch and Friesen",219597.70,Stock
+48XI8,3452,"Will, Schiller and Nitzsche",117107.16,Stock
+WNUBK,3453,Goyette Inc,601873.12,Stock
+57SDU,3454,Torphy - Tillman,189504.73,Stock
+T7XPP,3455,McGlynn - O'Kon,557759.03,Stock
+YUNTE,3456,Huel - Pfannerstill,561991.97,Stock
+AW7O0,3457,"Kiehn, Heaney and Marks",398378.34,Stock
+DFXKK,3458,"O'Hara, Kerluke and Hane",770553.61,Stock
+YAXV0,3459,Wuckert - Okuneva,191186.23,Stock
+2XIX6,3460,"Barton, Lesch and Hammes",817554.31,Stock
+XY142,3461,Orn - Mosciski,534557.94,Stock
+9XQS5,3462,"Dare, Leffler and Vandervort",76013.25,Stock
+6QZ8B,3463,Brekke - Hintz,11324.55,Stock
+HQ8WU,3464,Gaylord - Stanton,871011.65,Stock
+5VYUE,3465,Rempel - Flatley,891879.07,Stock
+B5DB2,3466,Koch Inc,893473.45,Stock
+PPIT2,3467,"O'Kon, Kiehn and Schmitt",952172.62,Stock
+C2A1W,3468,Baumbach Inc,848476.84,Stock
+BUR9Q,3469,"Wiegand, Lang and Beahan",334421.02,Stock
+88ENR,3470,"Quigley, Lakin and Cummings",670845.29,Stock
+WJDYL,3471,Dach - O'Connell,52135.80,Stock
+K4GL3,3472,"Schumm, Balistreri and Borer",457184.62,Stock
+SVCSV,3473,Bradtke - Wehner,459619.44,Stock
+N9DKA,3474,Mills - Braun,670320.98,Stock
+W6JWW,3475,Corwin - Schmeler,952504.17,Stock
+RMA5O,3476,Beatty - McKenzie,542793.38,Stock
+JQHH0,3477,Rath - Stoltenberg,170816.75,Stock
+20T0G,3478,Corkery - Hilll,815148.23,Stock
+XVZQQ,3479,Lemke Inc,769657.74,Stock
+DHLSU,3480,White Group,468261.98,Stock
+GF5XR,3481,Grant - Morissette,59018.09,Stock
+PR6ZM,3482,Schmitt - Witting,570758.21,Stock
+7SZ7I,3483,Schuster - Schimmel,980808.94,Stock
+7A5DQ,3484,Corkery Group,867660.91,Stock
+Z4FXS,3485,"Fritsch, Bernier and Schimmel",609773.56,Stock
+V4Y2G,3486,"Feeney, Bergstrom and Green",377182.44,Stock
+WZSZO,3487,Schuster Inc,257510.34,Stock
+1CQKO,3488,Pagac - Jakubowski,331724.18,Stock
+U7HA4,3489,Schmidt Group,756212.80,Stock
+3XN06,3490,"Jacobs, Ziemann and Borer",328671.47,Stock
+RC3BW,3491,"Turcotte, Murray and Emard",133782.77,Stock
+GR9LC,3492,White LLC,316001.20,Stock
+XLOHC,3493,"Stokes, Russel and Miller",863217.29,Stock
+KQRKL,3494,Jaskolski and Sons,319513.76,Stock
+E2WRO,3495,"Yundt, Kutch and Brekke",174956.86,Stock
+A1B1A,3496,Mayer - Stamm,326608.61,Stock
+R0HNM,3497,"Gulgowski, Lowe and Botsford",859263.10,Stock
+OVCGR,3498,Marquardt LLC,171272.06,Stock
+TZVRG,3499,DuBuque - Schaden,8531.59,Stock
+PGTA6,3500,Bogan and Sons,242626.21,Stock
+FAO3Y,3501,"Nitzsche, Herzog and Cruickshank",900660.67,Stock
+LKG3Z,3502,D'Amore - Koch,957830.35,Stock
+ZKEKD,3503,Rempel Inc,997237.60,Stock
+OGTEF,3504,"Stroman, Effertz and Herzog",384655.46,Stock
+WWDAM,3505,Hermiston LLC,127491.28,Stock
+DT0GS,3506,Padberg LLC,258097.29,Stock
+VWV8Q,3507,Hoeger - Mohr,488599.41,Stock
+R60SM,3508,Schaefer Group,505413.61,Stock
+M9SFO,3509,Mills - Durgan,85773.42,Stock
+D8N60,3510,Monahan Group,528893.35,Stock
+N6BHU,3511,"Schumm, Kuhn and Schulist",264286.08,Stock
+K7FUL,3512,Upton - Kunze,245257.17,Stock
+F8PMW,3513,Runolfsson - Harvey,699822.97,Stock
+L56Z4,3514,Jakubowski - Lehner,850692.75,Stock
+SXTSN,3515,"Hauck, Lynch and Veum",291735.98,Stock
+D2M8H,3516,Gaylord - Hane,941362.50,Stock
+09S3B,3517,Beer LLC,557822.85,Stock
+2PI1N,3518,"Hamill, Hartmann and Bednar",608414.03,Stock
+G19N6,3519,Luettgen - Runolfsson,616987.45,Stock
+WPU25,3520,Conroy - Schaden,969608.13,Stock
+L1GBB,3521,"Leuschke, Nienow and Kuhn",688802.11,Stock
+1ZRXC,3522,Gerlach - Franecki,873161.16,Stock
+MLM6Z,3523,Connelly - Langworth,758576.55,Stock
+ZJQH0,3524,Johnson - Herzog,750672.73,Stock
+PYZX7,3525,"Streich, Crona and Marvin",982391.01,Stock
+RIM09,3526,Roob Group,143548.04,Stock
+24WYW,3527,"Adams, Thiel and Berge",426858.99,Stock
+YS26V,3528,Ratke Inc,533578.57,Stock
+OEW8C,3529,Schinner Group,633275.43,Stock
+IGP03,3530,Mertz Inc,349122.46,Stock
+03NI4,3531,"Renner, Larkin and Strosin",804611.51,Stock
+BRVGZ,3532,Bartoletti and Sons,694129.75,Stock
+TRNCN,3533,Douglas - O'Conner,515532.70,Stock
+O9GCA,3534,"Dooley, Ortiz and Schulist",962900.56,Stock
+S0BWW,3535,"Schmidt, Lesch and Auer",908460.31,Stock
+MW57O,3536,"Mayert, O'Hara and Zieme",748071.33,Stock
+QAGE2,3537,Cummerata LLC,447306.43,Stock
+H6U6Q,3538,"Keeling, Stehr and Johnston",571662.26,Stock
+QCJO2,3539,"Schuppe, Kiehn and Reichert",453826.99,Stock
+N6T53,3540,Ryan - Brown,245489.67,Stock
+88G25,3541,Moen and Sons,599560.84,Stock
+PEHVO,3542,Larson LLC,784661.04,Stock
+RSCQW,3543,Dietrich - Reichert,391340.28,Stock
+N0RW4,3544,Mohr Group,390776.07,Stock
+ZN6G5,3545,Ernser - Dicki,483303.94,Stock
+RSIDY,3546,Lueilwitz - Becker,698534.48,Stock
+9IC5G,3547,Towne - Stehr,528840.15,Stock
+1T92N,3548,Pollich - Stracke,550482.89,Stock
+7AMU6,3549,Williamson - Effertz,72479.52,Stock
+92E0A,3550,"Mraz, Spinka and Williamson",877173.85,Stock
+6SSAX,3551,"Wintheiser, Pagac and Considine",830409.45,Stock
+51FQA,3552,Feil - Jones,704471.80,Stock
+HJMGT,3553,"Mante, Tremblay and Jacobs",333818.99,Stock
+Z6OST,3554,Kshlerin - Nicolas,804282.11,Stock
+CWNM7,3555,Towne - Kautzer,507211.20,Stock
+B3BPZ,3556,Schowalter Group,848439.79,Stock
+KCYPG,3557,Heathcote - O'Kon,299418.09,Stock
+8LCE9,3558,"Kemmer, Keeling and Lemke",468044.02,Stock
+VBHMZ,3559,Lueilwitz and Sons,675386.36,Stock
+64G53,3560,"Corwin, Lesch and Krajcik",277815.48,Stock
+GR6RL,3561,Bosco LLC,642598.14,Stock
+P2NF2,3562,Miller - Fisher,972189.47,Stock
+ZYBCY,3563,"Satterfield, Wisoky and Blanda",694833.45,Stock
+G925I,3564,Hermiston and Sons,783709.98,Stock
+VADI6,3565,"Bartell, Ullrich and Predovic",563286.80,Stock
+SD49E,3566,"Jacobson, Mueller and Rice",38927.40,Stock
+8M8ZT,3567,Pfannerstill - Corkery,415542.83,Stock
+J1R2E,3568,"Price, Murazik and Turner",136482.39,Stock
+4IJJM,3569,Hyatt LLC,451452.30,Stock
+TRY8V,3570,Ziemann Inc,156885.88,Stock
+BKPH7,3571,Krajcik - West,630139.92,Stock
+0AP20,3572,Kuhic - Doyle,991232.26,Stock
+3MOTP,3573,"Feil, Auer and Trantow",669059.12,Stock
+B59LG,3574,Schoen - Collins,166847.05,Stock
+NB11E,3575,Bogisich - Beer,734114.25,Stock
+RR1ZV,3576,Wisozk Group,443523.33,Stock
+MQ0XE,3577,Schoen - Stiedemann,189.20,Stock
+RO9HW,3578,Hammes - Treutel,827500.61,Stock
+17CUX,3579,"Kuvalis, Hilll and Mayert",614204.68,Stock
+BAOSL,3580,Bayer and Sons,128717.57,Stock
+PWOQI,3581,Klocko - Hammes,729894.67,Stock
+9U5HH,3582,Emmerich - Borer,188371.54,Stock
+9V2UC,3583,Dicki Group,785511.48,Stock
+VNXGJ,3584,"Dicki, Mayert and Lehner",75966.53,Stock
+PVMUW,3585,"O'Kon, Ondricka and Walker",322481.42,Stock
+NLSS6,3586,"Langosh, Windler and Sipes",797517.55,Stock
+PJXY5,3587,Olson - Swaniawski,559680.90,Stock
+MPUC9,3588,Lesch and Sons,398564.14,Stock
+8XKH8,3589,Borer - Jenkins,252836.61,Stock
+5943S,3590,"Reynolds, Johnson and Gorczany",862546.32,Stock
+WHNDF,3591,Farrell Group,755900.95,Stock
+ACAOR,3592,Heller Inc,954088.97,Stock
+7A68Q,3593,Kertzmann Group,981486.90,Stock
+L291P,3594,"Osinski, Dibbert and Casper",494409.95,Stock
+J4DVM,3595,Langosh - Rosenbaum,580250.38,Stock
+IXOU4,3596,"Buckridge, Weber and Macejkovic",460911.09,Stock
+RPP9Z,3597,Kuhic LLC,671188.09,Stock
+LC9FU,3598,"Langosh, Tremblay and Beatty",301410.43,Stock
+KGLZ4,3599,Spinka - Smith,427341.37,Stock
+407RU,3600,"Mosciski, Luettgen and Waters",214297.40,Stock
+04V2M,3601,"Stracke, Stehr and Torp",383049.58,Stock
+GA62Z,3602,"Braun, Frami and Larson",816447.15,Stock
+IDAKO,3603,Crooks LLC,590524.22,Stock
+FZJYG,3604,"Goyette, Hudson and McDermott",421819.76,Stock
+C5MD1,3605,Kilback - Mante,543989.97,Stock
+5RMT4,3606,Roob Group,839471.41,Stock
+J75CK,3607,Herzog Inc,722992.68,Stock
+XBQNJ,3608,Schuster - Boehm,822253.84,Stock
+WZ9GX,3609,Mosciski - Hills,433399.60,Stock
+SLU9L,3610,Kiehn Inc,810990.44,Stock
+E0L3J,3611,Parker - Turner,365659.06,Stock
+I7Y7R,3612,"Greenholt, Simonis and Lesch",111211.32,Stock
+92WBP,3613,"Klein, Auer and Koepp",77220.10,Stock
+PAYNA,3614,Kreiger Group,652941.30,Stock
+FB63J,3615,Hickle Group,803794.61,Stock
+E3F5F,3616,Rempel LLC,837675.83,Stock
+39EJH,3617,Shanahan Inc,313753.04,Stock
+JKOZE,3618,Daugherty Group,824190.27,Stock
+6JLL4,3619,"O'Connell, Marvin and Crist",906731.16,Stock
+KVRT7,3620,Blanda Group,209215.03,Stock
+TUXPI,3621,"Goodwin, McCullough and Jenkins",907397.03,Stock
+OGHU2,3622,Aufderhar Inc,412976.20,Stock
+9CEGY,3623,"Upton, Rowe and Lakin",653972.61,Stock
+H24E8,3624,Willms Group,746804.28,Stock
+2E30N,3625,"Harber, Bergnaum and Gislason",838886.10,Stock
+OWA5R,3626,Rolfson Inc,13404.33,Stock
+YGJE9,3627,"Collins, Lueilwitz and Kassulke",388118.14,Stock
+6QUNX,3628,"Hartmann, Lynch and Becker",262094.45,Stock
+Q976Y,3629,Flatley - Daugherty,332084.70,Stock
+DH34W,3630,Spinka Inc,932155.10,Stock
+TCBMP,3631,"Halvorson, Hills and Leuschke",1133.20,Stock
+8COY7,3632,"Sipes, Wiegand and Beatty",645190.56,Stock
+BFHE7,3633,"Cartwright, Reynolds and Gulgowski",595254.52,Stock
+6BJW8,3634,Cronin - Bernhard,831069.56,Stock
+ID45S,3635,Zboncak - Jenkins,634226.07,Stock
+5W7JL,3636,Quigley - Bahringer,788973.46,Stock
+UXF4N,3637,Weimann LLC,393064.37,Stock
+GGL89,3638,"Carter, Strosin and Halvorson",673098.47,Stock
+5MXP6,3639,Emard - Watsica,478649.36,Stock
+QHYJY,3640,"Armstrong, Dare and Monahan",623873.67,Stock
+PC0X8,3641,Kub Inc,397510.72,Stock
+NY2D4,3642,Marvin and Sons,540626.71,Stock
+89BML,3643,Lebsack - Roob,911561.09,Stock
+HWN3S,3644,Franecki - Marquardt,191773.24,Stock
+5PPNL,3645,Schumm Inc,125886.65,Stock
+KDCH1,3646,Krajcik - Larson,659865.11,Stock
+22RIO,3647,Fadel Inc,934589.68,Stock
+WK5RJ,3648,Spinka - Blick,453566.25,Stock
+KNV52,3649,"Harvey, Homenick and Baumbach",198284.93,Stock
+UFVJC,3650,"Pfeffer, Donnelly and Stanton",7314.11,Stock
+2TIZK,3651,"Collins, Hessel and Mraz",36233.95,Stock
+5N50O,3652,"Kutch, Sawayn and Schuster",422384.64,Stock
+OZGZ2,3653,Daugherty Group,692525.42,Stock
+FSSZR,3654,Koelpin - Pollich,620319.46,Stock
+WK4CW,3655,Conroy Group,142981.27,Stock
+AUU3K,3656,Kautzer - Stehr,207713.62,Stock
+LTGE4,3657,Ortiz Group,48440.76,Stock
+M6W5V,3658,Thompson and Sons,16506.26,Stock
+B23K7,3659,"Champlin, Graham and Hayes",573184.01,Stock
+C8KBT,3660,Davis - Spinka,759384.08,Stock
+GUGJC,3661,"Lowe, Walker and Pouros",499265.63,Stock
+XYAV3,3662,"Padberg, Hamill and Cassin",964420.59,Stock
+80XF4,3663,Wisoky - Langosh,261609.58,Stock
+36C0F,3664,Sawayn Inc,872214.22,Stock
+QSJ22,3665,"Terry, Rau and Stamm",538707.72,Stock
+76Z1N,3666,"Shanahan, Hirthe and West",694218.81,Stock
+CIKPS,3667,Kulas - Legros,436141.95,Stock
+IIZDS,3668,Waters LLC,927712.14,Stock
+XVJAN,3669,Schaefer - Kub,694057.32,Stock
+ACZAC,3670,"Hirthe, Olson and Volkman",200971.65,Stock
+2QU48,3671,Kunze Inc,146875.61,Stock
+DK96R,3672,"Stehr, Kilback and Powlowski",832153.35,Stock
+UQC5B,3673,O'Conner - Trantow,56824.03,Stock
+N3AEN,3674,"Harris, McDermott and Littel",207285.84,Stock
+AESEO,3675,Will - Brakus,754112.66,Stock
+7QPDF,3676,"Leuschke, Nicolas and Beahan",165568.98,Stock
+IEXBB,3677,Jakubowski LLC,596601.80,Stock
+5LRTG,3678,Baumbach LLC,84410.14,Stock
+NBS3A,3679,"Mills, Ondricka and Bednar",350599.77,Stock
+PU88P,3680,Hane - Konopelski,953794.88,Stock
+2H5M3,3681,McDermott - Hessel,375049.06,Stock
+EASSR,3682,Krajcik - Kessler,410240.35,Stock
+QAMWZ,3683,Bednar Inc,284138.39,Stock
+D1GVJ,3684,"Borer, Bahringer and Fay",925475.72,Stock
+07BMU,3685,McCullough LLC,198526.13,Stock
+X246N,3686,Volkman Inc,150907.91,Stock
+6IDJ2,3687,Stehr Inc,739233.02,Stock
+YF9K7,3688,Lowe Inc,360042.32,Stock
+EOSV2,3689,Stiedemann - Bartell,66855.46,Stock
+S7ED0,3690,Weimann - Boyle,151538.96,Stock
+TH532,3691,Kuhlman - Jacobi,54327.98,Stock
+DVKBM,3692,"O'Connell, Wiegand and Rohan",883508.71,Stock
+AFSLZ,3693,Kling and Sons,947711.40,Stock
+LES2S,3694,Rohan Group,959087.92,Stock
+AL084,3695,Bashirian - Lueilwitz,922073.35,Stock
+VSDK3,3696,"Bednar, Reynolds and Glover",219153.27,Stock
+V61BW,3697,Brakus - Morar,37451.63,Stock
+33A23,3698,"Herzog, Harvey and Bosco",290475.62,Stock
+BXJ8S,3699,Runte Group,56226.26,Stock
+UOJPV,3700,Zboncak - Dare,228918.19,Stock
+A3JRI,3701,Pfannerstill Group,248249.34,Stock
+P9EBL,3702,"Kihn, Denesik and Cole",589959.16,Stock
+X8SXI,3703,Grimes Inc,314908.57,Stock
+E7ADC,3704,Kris and Sons,754906.46,Stock
+FLSME,3705,"Kris, Sporer and Lakin",558543.42,Stock
+DXNLW,3706,Koelpin - Wilderman,464069.41,Stock
+61M1K,3707,Shanahan - Altenwerth,500428.79,Stock
+XHURJ,3708,"Schinner, Waelchi and Haag",337793.97,Stock
+EI160,3709,"Pfannerstill, Reilly and Champlin",623158.81,Stock
+D0IWZ,3710,Schuppe LLC,626667.41,Stock
+4TH34,3711,"Koss, Walsh and Hoppe",29662.48,Stock
+3U7NP,3712,Yundt LLC,178850.46,Stock
+G0IV2,3713,Brown - Oberbrunner,984122.70,Stock
+KV22T,3714,VonRueden and Sons,435262.98,Stock
+WFX60,3715,Powlowski Inc,803176.72,Stock
+6DTIV,3716,Nitzsche - Murray,778773.14,Stock
+I8R66,3717,Kub and Sons,361457.26,Stock
+11WYO,3718,"Marvin, Jones and Nader",98530.63,Stock
+AZZ8F,3719,Dooley - Emmerich,51943.68,Stock
+101LC,3720,Ritchie - Wintheiser,625761.72,Stock
+85LLW,3721,"Dibbert, Runte and Batz",726775.30,Stock
+E4XOT,3722,Mertz - Robel,270899.87,Stock
+0COFT,3723,Deckow - Hickle,515373.57,Stock
+PYRWJ,3724,"Hodkiewicz, Muller and Beatty",448185.25,Stock
+E3OTR,3725,Wisoky - Veum,691373.27,Stock
+C855K,3726,Luettgen - Kutch,105118.11,Stock
+BN89H,3727,"Rohan, Prohaska and Beer",811556.27,Stock
+7E7UI,3728,Baumbach and Sons,644678.59,Stock
+IWY9G,3729,Wiza - Jones,335438.25,Stock
+JE35U,3730,Graham Group,291885.27,Stock
+5T6OQ,3731,Crist - Mills,43213.23,Stock
+5EMNL,3732,Vandervort and Sons,708627.36,Stock
+U17YZ,3733,Johns Inc,164271.96,Stock
+1JSOX,3734,"Steuber, Labadie and Volkman",550510.23,Stock
+T5TD5,3735,Schoen - Miller,146125.53,Stock
+VSUQN,3736,Conn - Jones,654813.94,Stock
+7UIT8,3737,Haley LLC,841707.17,Stock
+DPP7S,3738,Hessel Inc,154131.64,Stock
+1O1EU,3739,Glover - Hilpert,1610.81,Stock
+PAWJD,3740,Dooley LLC,129013.42,Stock
+NZXK0,3741,Moen - Mertz,764018.26,Stock
+NZ6H9,3742,"Jast, Russel and Reichel",935162.45,Stock
+TZ8ML,3743,Gottlieb Group,796358.12,Stock
+UBDL7,3744,O'Hara Group,247309.87,Stock
+O4Z2J,3745,"Murphy, Hoeger and Bergstrom",478157.95,Stock
+TMA3G,3746,Wiza Inc,516266.23,Stock
+CFCY5,3747,"Ryan, Sauer and Huel",361422.81,Stock
+AUW6S,3748,"Huels, Mante and Bayer",789264.31,Stock
+PDMZ4,3749,Olson Group,904127.63,Stock
+WSF38,3750,Morissette LLC,228169.51,Stock
+6T55P,3751,Renner Inc,319450.17,Stock
+3A85X,3752,"Heller, Emard and Windler",734572.16,Stock
+7TJD5,3753,"Pfeffer, Ziemann and Rath",457734.61,Stock
+MVGRW,3754,Frami - Hettinger,194164.50,Stock
+OPMX6,3755,Aufderhar - Rosenbaum,557072.63,Stock
+H8J00,3756,"Koelpin, Waters and Olson",651777.34,Stock
+RZ1OZ,3757,Braun - Herman,273291.55,Stock
+JCNW4,3758,Heller Group,645608.25,Stock
+ANNW8,3759,Hane Inc,826606.04,Stock
+2UF6S,3760,Medhurst Group,961846.92,Stock
+N0NWT,3761,Rogahn Group,575858.50,Stock
+ZK4EP,3762,Schulist and Sons,316892.12,Stock
+LUQ03,3763,Roob Group,702580.65,Stock
+7CJJ6,3764,Beer and Sons,1954.08,Stock
+6ETM3,3765,Luettgen LLC,999937.43,Stock
+N5FFZ,3766,"Pfeffer, Mitchell and Grimes",847937.14,Stock
+MXJUJ,3767,Conn - Collier,829907.98,Stock
+GEZU0,3768,Mills Inc,769209.78,Stock
+YRWCH,3769,Marvin and Sons,877588.95,Stock
+XK31Z,3770,"Ebert, Nader and Sporer",783596.62,Stock
+AMITX,3771,"Bernier, Blick and O'Hara",544870.86,Stock
+5FUKJ,3772,Torphy Group,788397.32,Stock
+FPMW6,3773,Homenick Group,275953.62,Stock
+Z4XXX,3774,"Boyle, Doyle and Hettinger",379312.65,Stock
+FCXCU,3775,"Medhurst, Hermann and Fritsch",98515.04,Stock
+VMSSN,3776,"Hessel, Bogisich and Abernathy",543789.89,Stock
+PPSIV,3777,"Vandervort, Hirthe and Kertzmann",682737.52,Stock
+OYT4T,3778,Douglas - Kunze,928335.31,Stock
+HG07T,3779,"Botsford, Sanford and Greenfelder",61886.36,Stock
+AZY7X,3780,Hilpert - Harvey,145227.00,Stock
+FG6HV,3781,Huel - Purdy,560717.70,Stock
+HZXJ5,3782,Hammes LLC,50017.47,Stock
+OIYZI,3783,Haley - Willms,224526.61,Stock
+PQWKF,3784,Beer Inc,949820.86,Stock
+VZLUV,3785,Lesch and Sons,824025.88,Stock
+7QTCW,3786,Konopelski Group,360595.21,Stock
+FYVFN,3787,"Heathcote, Predovic and Dickinson",597546.18,Stock
+XJS0T,3788,Mitchell Group,155575.83,Stock
+MQIMY,3789,"Kilback, Wyman and Murray",840047.35,Stock
+X7QYX,3790,"Koepp, Collins and Hills",838274.80,Stock
+NAEBY,3791,"Streich, Zieme and Leuschke",934628.73,Stock
+GZPUK,3792,"Johnston, Reynolds and Zulauf",551383.92,Stock
+72807,3793,"Veum, Hauck and Volkman",590818.15,Stock
+XGGP6,3794,"Schmidt, Shields and Blanda",899626.02,Stock
+4FQ4T,3795,Harvey - Ebert,650659.49,Stock
+E20J2,3796,Wintheiser - Lang,880744.95,Stock
+390LN,3797,"Rippin, Marvin and Baumbach",388728.54,Stock
+0N7JP,3798,Mueller Inc,523747.79,Stock
+FM96X,3799,"Sanford, Cronin and Koss",933197.24,Stock
+DIYMB,3800,Adams - Treutel,399592.59,Stock
+217DF,3801,"Carroll, Hodkiewicz and Buckridge",839057.64,Stock
+AUAS9,3802,Erdman - Deckow,534580.40,Stock
+335N7,3803,Muller - Runolfsdottir,841059.92,Stock
+1WLLB,3804,Oberbrunner Inc,56836.35,Stock
+89TOP,3805,Hammes - Jacobs,893408.03,Stock
+2POZO,3806,Kozey LLC,555843.31,Stock
+OEUZP,3807,Gorczany and Sons,12651.45,Stock
+YPJNG,3808,Kertzmann - Daniel,280327.37,Stock
+EEW6L,3809,"Rogahn, Jacobs and Lang",29678.04,Stock
+27EB0,3810,McGlynn - Gusikowski,365892.02,Stock
+9JE9I,3811,Nitzsche - Wyman,54913.58,Stock
+9T8AO,3812,"Ledner, Thompson and Aufderhar",416440.01,Stock
+88B44,3813,Tromp LLC,765416.27,Stock
+EIZTV,3814,Bruen Inc,546709.44,Stock
+VYNQN,3815,"Cormier, Wiza and Nikolaus",135305.47,Stock
+XQ241,3816,Bayer LLC,830815.13,Stock
+96EWZ,3817,"Rogahn, Schuster and West",400710.06,Stock
+XJ4PL,3818,Kuvalis - Kassulke,432635.82,Stock
+NY2JA,3819,"Ritchie, Schuppe and McClure",510645.41,Stock
+YY4V7,3820,Schuppe and Sons,400264.32,Stock
+1O95Q,3821,Hintz - Wiegand,459549.65,Stock
+0GCA2,3822,Mitchell - Greenfelder,796775.82,Stock
+6N4R5,3823,Hagenes and Sons,437162.08,Stock
+SOX48,3824,Brakus and Sons,486839.17,Stock
+I7GXZ,3825,"Gottlieb, Sauer and Turcotte",258616.90,Stock
+NWYKX,3826,Schinner Group,46915.32,Stock
+9I41A,3827,Denesik and Sons,326671.37,Stock
+W7J09,3828,Schmidt LLC,863550.98,Stock
+PQ5GC,3829,Bechtelar Group,220899.31,Stock
+T30Z1,3830,Bednar Group,597623.86,Stock
+4HXC4,3831,Wilderman - Leannon,378210.71,Stock
+IMMPI,3832,Koss - Turner,672405.02,Stock
+6T5WZ,3833,Volkman and Sons,559512.84,Stock
+UW602,3834,Legros - Wisozk,518365.81,Stock
+DLRZG,3835,"Torphy, Waelchi and Greenfelder",283224.61,Stock
+4LV2K,3836,Lockman - Daugherty,984313.42,Stock
+HHT5U,3837,"Runte, Prosacco and Emard",231443.20,Stock
+KUTLU,3838,Altenwerth - Kuphal,492961.21,Stock
+UPCFA,3839,Boehm - Wiegand,408013.60,Stock
+TL1A1,3840,Sporer - Walker,985076.85,Stock
+GXCG2,3841,"Pollich, Schinner and Schroeder",566163.26,Stock
+00GH0,3842,Moore Inc,307768.45,Stock
+269BX,3843,Stracke - Lang,890011.41,Stock
+9S5W2,3844,Dietrich - Ullrich,441081.86,Stock
+9ADOE,3845,"Larson, Kunze and Kshlerin",480691.85,Stock
+31X65,3846,VonRueden - Wunsch,361617.10,Stock
+0Q95M,3847,"Robel, Muller and Grimes",144596.18,Stock
+XMZIV,3848,Hansen - Crooks,105299.15,Stock
+IUR0N,3849,Friesen - Mohr,674764.37,Stock
+Z3B78,3850,"Schultz, Jacobson and Hane",609112.01,Stock
+4RB3D,3851,Kreiger - Roob,8876.88,Stock
+2TW62,3852,"Baumbach, Renner and Brown",522827.21,Stock
+2FC70,3853,Kessler and Sons,997725.07,Stock
+R5EM8,3854,"Daugherty, Abshire and Morar",436282.37,Stock
+E6L3P,3855,Ullrich - Dibbert,768991.97,Stock
+92SZH,3856,"Gleason, Schmidt and Bergstrom",907998.71,Stock
+D7TFA,3857,"McLaughlin, Schamberger and Lynch",303860.35,Stock
+OP5XO,3858,Herzog - O'Kon,183043.97,Stock
+BRX33,3859,"Schoen, Kohler and Haley",635746.21,Stock
+XXNOC,3860,Herman - Wolf,183600.40,Stock
+TCILM,3861,"Jacobs, Douglas and Hoppe",178014.69,Stock
+40O7A,3862,Dietrich - Bradtke,158150.71,Stock
+3P2XD,3863,Fadel LLC,450304.81,Stock
+0T19R,3864,Reynolds Inc,28147.07,Stock
+T5APW,3865,Grant - Labadie,284770.16,Stock
+9PDJ4,3866,Dietrich Group,174106.36,Stock
+3VZCV,3867,Wiegand - Carroll,672664.92,Stock
+4U89X,3868,Hettinger - D'Amore,291012.32,Stock
+DTTQI,3869,"Strosin, Jenkins and Jacobi",149070.29,Stock
+HOPBN,3870,Kub LLC,657914.61,Stock
+9XCQY,3871,"Deckow, Nader and Hagenes",465539.74,Stock
+SLNPX,3872,Auer Group,999562.01,Stock
+GCEUP,3873,"Rohan, Stracke and Graham",123524.04,Stock
+IR5KY,3874,"Mohr, Jast and Ledner",587164.65,Stock
+UOH2H,3875,Fadel Inc,78531.03,Stock
+IWVWI,3876,"Berge, Senger and Wisozk",769268.29,Stock
+1COHC,3877,"Carter, Thompson and Bernier",650210.74,Stock
+RTKQS,3878,Barton - Klocko,105939.04,Stock
+W4NUN,3879,Klocko - Windler,279156.05,Stock
+UMPT8,3880,Abshire - Paucek,615342.84,Stock
+Z0PZP,3881,Hessel Inc,498564.80,Stock
+X53G1,3882,Raynor - Dooley,958031.30,Stock
+6P1HN,3883,"Spencer, Wisozk and Wilderman",7039.69,Stock
+KFDRX,3884,"Deckow, Senger and Jacobi",941151.56,Stock
+F15FO,3885,Windler - Macejkovic,925120.87,Stock
+KTZ97,3886,Leannon LLC,383196.52,Stock
+I23IS,3887,Spinka - Sauer,968054.25,Stock
+SCJLX,3888,Gerlach and Sons,514657.72,Stock
+19CF5,3889,Bayer LLC,971357.41,Stock
+YA80W,3890,Schmidt - Friesen,576816.71,Stock
+TW9T6,3891,Kulas and Sons,502339.95,Stock
+UZWP8,3892,Lubowitz LLC,168812.21,Stock
+3WQPJ,3893,"Homenick, Schinner and Labadie",620930.70,Stock
+FE3HS,3894,"Gutmann, Brakus and Green",763030.08,Stock
+32VE7,3895,Murphy LLC,226679.31,Stock
+KN4NV,3896,"Gleason, Parker and Fritsch",60168.51,Stock
+P2V69,3897,McKenzie - Borer,184849.45,Stock
+X01NK,3898,"Rice, Klocko and Thiel",419917.11,Stock
+JR921,3899,Maggio - Ebert,500720.65,Stock
+Q8464,3900,Renner Inc,317568.29,Stock
+VMFGI,3901,Abernathy - Cormier,223245.46,Stock
+IZJ8B,3902,Gibson - Hane,51866.25,Stock
+G0T5J,3903,Borer LLC,421510.58,Stock
+QVLNF,3904,"Johnson, Quitzon and Nolan",308373.64,Stock
+29VSQ,3905,Pouros LLC,57640.22,Stock
+XY3K0,3906,"Emard, Conroy and Runte",506343.88,Stock
+3L1SQ,3907,Collier - Jacobson,725322.47,Stock
+42MK1,3908,"McKenzie, Daniel and Waelchi",317924.81,Stock
+35BPN,3909,Crona - Maggio,214724.31,Stock
+AK3AS,3910,Raynor and Sons,634966.08,Stock
+5U5TA,3911,"Langosh, Koepp and Aufderhar",472998.84,Stock
+23VZX,3912,"Nikolaus, Klein and Haley",402130.47,Stock
+EL0LY,3913,Marquardt Group,891725.95,Stock
+N1KGO,3914,"Heidenreich, Emard and Sporer",275216.13,Stock
+0V0RE,3915,Hilll - Wilderman,339021.54,Stock
+DGEQK,3916,"Mann, Effertz and Quitzon",110220.67,Stock
+6XYLS,3917,Torphy - Bruen,243296.25,Stock
+M6KJC,3918,Orn and Sons,500121.49,Stock
+UMNEN,3919,Rogahn Inc,393307.00,Stock
+8AZUS,3920,Braun - Kris,804407.17,Stock
+297KQ,3921,Casper Group,397319.31,Stock
+JT45Z,3922,Bergnaum - McLaughlin,530827.21,Stock
+LSABI,3923,Farrell - Bechtelar,491613.44,Stock
+IRD9F,3924,Hilpert and Sons,54184.11,Stock
+69V2B,3925,Skiles - Pacocha,745966.86,Stock
+O3BFM,3926,Breitenberg LLC,667250.80,Stock
+RRW7B,3927,"Schuppe, Lind and Witting",115970.04,Stock
+ADIBB,3928,Mann - Schumm,151096.91,Stock
+H77XN,3929,"Bayer, Schinner and Moen",521574.81,Stock
+MFWMP,3930,"Harvey, Rodriguez and Beer",157574.76,Stock
+JR9YA,3931,"Yost, Green and Beatty",567389.50,Stock
+MKY70,3932,Cummings Group,987664.55,Stock
+8IZSI,3933,Turner - MacGyver,816772.34,Stock
+WMETR,3934,Leannon - Stamm,494475.22,Stock
+8NDIK,3935,"Batz, Zemlak and Ratke",960795.28,Stock
+V4TC6,3936,"Kautzer, McDermott and Parker",224588.58,Stock
+9LFFS,3937,Ledner LLC,737972.06,Stock
+T760S,3938,Conroy LLC,806087.41,Stock
+E122U,3939,"Haley, Corwin and Thiel",15481.60,Stock
+2NP8G,3940,Mraz - Sawayn,795656.13,Stock
+8K8F6,3941,Koepp and Sons,811312.11,Stock
+UCV10,3942,Runte - Kreiger,50427.48,Stock
+6ILT6,3943,Lakin Inc,704400.44,Stock
+3ZPRB,3944,Hegmann - Lang,149226.36,Stock
+RYUGB,3945,Kuvalis - Waelchi,299622.11,Stock
+X1NJP,3946,Marquardt - Runte,445998.23,Stock
+7FER3,3947,Lubowitz and Sons,848145.61,Stock
+20AJ3,3948,"Kovacek, Orn and Kunze",330719.31,Stock
+788E1,3949,"Ritchie, Fadel and Stehr",713787.22,Stock
+9G71Q,3950,Kozey - Lang,552069.99,Stock
+V6ZNV,3951,Kutch Group,2959.30,Stock
+IJOZ1,3952,Pfannerstill and Sons,622858.50,Stock
+0QO7Y,3953,"Marvin, Nicolas and Witting",180910.83,Stock
+ZK8LZ,3954,Feest Group,863157.23,Stock
+DZPLS,3955,"Hermann, Parisian and Reinger",573225.93,Stock
+IG3BB,3956,"Wintheiser, Stroman and Graham",399627.74,Stock
+IMCTG,3957,"Goodwin, Dooley and Witting",25325.20,Stock
+8P0U2,3958,Gislason Group,708783.72,Stock
+V8Z8Y,3959,Davis - Gusikowski,126375.87,Stock
+XA3G5,3960,Hayes - Larson,480829.42,Stock
+V5RP0,3961,"Prohaska, Beahan and Rogahn",640672.95,Stock
+M1Q4K,3962,Bauch LLC,506075.76,Stock
+AOVHX,3963,Harris LLC,28111.63,Stock
+SJB50,3964,Heathcote - Orn,610111.11,Stock
+IZ3WS,3965,"Lindgren, Jenkins and Wuckert",116485.47,Stock
+IBTYO,3966,"Turner, Klein and Dickinson",142287.01,Stock
+6DCJ9,3967,"Bergstrom, Runolfsdottir and Jakubowski",207974.82,Stock
+VL667,3968,Dietrich and Sons,15429.66,Stock
+3N145,3969,Beatty Inc,773222.99,Stock
+CH8SR,3970,Borer - Konopelski,715863.41,Stock
+MJNMM,3971,Russel Group,161205.13,Stock
+C5LRM,3972,Kertzmann - Haley,546344.28,Stock
+627TG,3973,Greenholt - Orn,756301.52,Stock
+3T5EA,3974,"Kirlin, Stehr and Zboncak",770728.68,Stock
+H0LOU,3975,Kassulke LLC,127306.36,Stock
+UNH38,3976,"Rippin, Hamill and Breitenberg",592681.06,Stock
+2U5SG,3977,Swaniawski - West,798645.09,Stock
+QBP7X,3978,Emmerich - Reinger,189768.97,Stock
+DDUPH,3979,Davis LLC,572544.10,Stock
+MPWSE,3980,Gerlach - Conn,106284.93,Stock
+B850M,3981,Muller LLC,277471.51,Stock
+WNQBX,3982,Lockman LLC,777963.78,Stock
+YCDTI,3983,Balistreri - Kulas,566751.30,Stock
+9YXLK,3984,Macejkovic LLC,17748.75,Stock
+FDRL6,3985,Towne - Stokes,520086.87,Stock
+ASERW,3986,"Maggio, Hickle and Kuhic",372784.86,Stock
+HPUG0,3987,Padberg - DuBuque,905170.45,Stock
+B2DF2,3988,Goldner LLC,856652.42,Stock
+6G95T,3989,"Moen, Christiansen and Schneider",353060.07,Stock
+601W5,3990,Hahn Inc,865102.00,Stock
+QDWAP,3991,"Hessel, Schuppe and Mayer",904513.38,Stock
+PF5SQ,3992,Jakubowski Inc,859179.64,Stock
+J09PZ,3993,Aufderhar and Sons,242198.49,Stock
+67GP5,3994,Kertzmann - Stark,260243.51,Stock
+A6J3F,3995,Fahey Inc,990124.81,Stock
+07BK4,3996,Kling LLC,437913.92,Stock
+M1DHU,3997,Carroll - Grady,554559.85,Stock
+Z94KO,3998,"Schinner, Fadel and Schamberger",410801.93,Stock
+FL38G,3999,Rippin and Sons,692141.04,Stock
+2WLVH,4000,"Jones, Murray and White",607714.75,Stock
+BOB7E,4001,Anderson - Mueller,788686.16,Stock
+NM8E9,4002,Legros Inc,882971.27,Stock
+SWIF8,4003,Stanton - Wiegand,543769.57,Stock
+DNYNP,4004,"Morar, Rath and Labadie",406913.43,Stock
+P7XSJ,4005,"West, Zulauf and Casper",409287.85,Stock
+61I17,4006,"Haley, Hickle and Parisian",631209.26,Stock
+KOJ4S,4007,"Gibson, Towne and Koss",462454.73,Stock
+GBFQJ,4008,Pfeffer Group,533656.28,Stock
+8J81V,4009,"Medhurst, Williamson and Renner",894209.24,Stock
+GZO2J,4010,Herman Inc,921397.10,Stock
+T0BAC,4011,Simonis - Ankunding,666619.64,Stock
+Z7MRJ,4012,"Farrell, Gutmann and Robel",304537.06,Stock
+NVF3R,4013,"Erdman, Ward and Harris",648788.64,Stock
+W2PUX,4014,Lowe - Runolfsdottir,269619.52,Stock
+6FSKH,4015,Rempel LLC,961371.90,Stock
+752BQ,4016,Corkery LLC,828251.97,Stock
+K7ITA,4017,Hickle - Abbott,935969.84,Stock
+9DPMS,4018,Bartoletti - Spinka,237785.04,Stock
+U3DEY,4019,Gerlach - Roberts,912294.62,Stock
+7LC7G,4020,Pollich and Sons,609249.76,Stock
+C4CJN,4021,"Doyle, Crooks and Hettinger",439194.82,Stock
+CN1ZL,4022,"Swift, Herzog and Cole",592581.38,Stock
+9H4YU,4023,Upton - Lueilwitz,172398.00,Stock
+RFN1T,4024,"Gaylord, Turcotte and Beer",892765.14,Stock
+QK2OK,4025,Sanford - Kuvalis,557812.95,Stock
+MY0NZ,4026,"Gerhold, Luettgen and Leuschke",348117.30,Stock
+HPEWT,4027,Willms Inc,186387.21,Stock
+L8LT0,4028,Hessel - D'Amore,711386.42,Stock
+SK7L9,4029,Shields - McKenzie,199519.11,Stock
+RNYU5,4030,"Lueilwitz, Kemmer and Weissnat",754381.38,Stock
+O977K,4031,Armstrong - Stanton,325302.15,Stock
+TXOTE,4032,Wilderman - Gutmann,742707.59,Stock
+FOCDI,4033,"Cummings, Nolan and Wolf",889560.86,Stock
+DG70I,4034,Jacobson - Beier,644428.55,Stock
+DN1BE,4035,Volkman - Weissnat,570531.26,Stock
+82OIM,4036,"Morar, Altenwerth and Bogisich",944284.87,Stock
+VPL5H,4037,Johns LLC,321365.07,Stock
+X6BHY,4038,Ward and Sons,596142.45,Stock
+49JRI,4039,Gibson - Harris,838033.78,Stock
+OXLV3,4040,Koelpin - Schroeder,578587.76,Stock
+HK0HI,4041,"Medhurst, Bernhard and Swaniawski",792783.17,Stock
+R439A,4042,Blick Group,621667.32,Stock
+362PO,4043,Gutmann and Sons,778014.59,Stock
+2GWVQ,4044,"Franecki, Hilll and Zboncak",55597.20,Stock
+S1QFL,4045,Stark - Goldner,96439.37,Stock
+BLSHT,4046,"Beatty, Koepp and Medhurst",676336.89,Stock
+A8510,4047,"Pfeffer, Reichert and Ryan",893228.05,Stock
+SF07L,4048,"Crona, Stroman and Feil",364263.38,Stock
+M9NON,4049,"Hermiston, Rogahn and Kovacek",867139.05,Stock
+X1Q2D,4050,Gusikowski - Wyman,80641.08,Stock
+RO688,4051,"Lindgren, Tillman and Reichel",414075.10,Stock
+2LX9W,4052,"Trantow, Marks and Marvin",884645.03,Stock
+DJJ6S,4053,Aufderhar LLC,456764.08,Stock
+ME2VM,4054,Hane Inc,353594.41,Stock
+1FSRW,4055,Quitzon - Dibbert,441677.74,Stock
+H63SY,4056,"Boyle, Ankunding and Hahn",98990.56,Stock
+IEWWU,4057,Hermann - Stokes,222235.22,Stock
+7YLJP,4058,Waters - Dare,828890.25,Stock
+NT2R0,4059,"Wuckert, Cummings and Okuneva",593809.51,Stock
+L3FAH,4060,Little Inc,529871.71,Stock
+IY8YJ,4061,Parker - Bayer,129079.85,Stock
+YGATS,4062,Schultz and Sons,493155.60,Stock
+MWOBC,4063,"Rowe, Doyle and Jast",430864.17,Stock
+O411S,4064,Marks - Reilly,758645.39,Stock
+9TYNQ,4065,"O'Conner, Rath and Hickle",690295.15,Stock
+BOI92,4066,Rippin - Friesen,798609.90,Stock
+NVKZJ,4067,Jones Inc,839484.93,Stock
+EHY42,4068,O'Kon and Sons,896134.98,Stock
+O8XPM,4069,Langworth - Considine,625249.85,Stock
+5VZSC,4070,Russel and Sons,85822.79,Stock
+4A9W0,4071,Schroeder - Bernier,489324.58,Stock
+U6M4R,4072,Price - Harris,749026.37,Stock
+X9E75,4073,"Muller, Romaguera and Wuckert",895306.52,Stock
+5BBZW,4074,"Kulas, Kutch and VonRueden",616226.26,Stock
+8K0AE,4075,Stoltenberg - Hickle,767735.13,Stock
+15LNW,4076,"Erdman, Kovacek and Bauch",104005.45,Stock
+4XIVS,4077,Feest LLC,75819.59,Stock
+7D29Z,4078,"Monahan, Langworth and Stoltenberg",629941.60,Stock
+AXIGE,4079,"Hand, Veum and Wisozk",6672.74,Stock
+UOOS8,4080,"Klein, Lesch and Parker",407691.01,Stock
+SFCUT,4081,"Reilly, Prohaska and Feil",571828.10,Stock
+L89PS,4082,"Witting, Ullrich and Mraz",906248.73,Stock
+W92TG,4083,Keebler Inc,475644.01,Stock
+50MOE,4084,"Lindgren, Price and Grant",16766.96,Stock
+MNWJW,4085,Stoltenberg LLC,660948.78,Stock
+Z1EN8,4086,"Schultz, Mohr and Jerde",963672.20,Stock
+W1A1O,4087,Hackett - Raynor,585572.90,Stock
+VHXMR,4088,"Kozey, Towne and Wisozk",558140.55,Stock
+52N64,4089,Schulist - Zulauf,719738.71,Stock
+EC3H9,4090,"Gulgowski, Wiza and Rippin",354850.09,Stock
+7NFVU,4091,Monahan - Heaney,626268.70,Stock
+EN8EC,4092,Lowe and Sons,55136.61,Stock
+V5ADW,4093,Luettgen - Lehner,262568.28,Stock
+0NZ53,4094,"Lesch, Marks and Emmerich",773866.78,Stock
+6S4K9,4095,Sauer Inc,721249.82,Stock
+Z0IXQ,4096,Mante Inc,130393.30,Stock
+TQPC9,4097,Ritchie - Deckow,324287.26,Stock
+H48JI,4098,"Ryan, Kohler and Jacobi",429321.45,Stock
+15CNE,4099,"Herzog, Koss and Ritchie",577086.71,Stock
+WKFWV,4100,Durgan - Glover,64902.55,Stock
